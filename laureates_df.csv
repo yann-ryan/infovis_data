@@ -1,0 +1,982 @@
+laureates_id,prize_id,given_name,family_name,gender,birth_city,birth_country,birth_continent,death_city,death_country,death_continent
+160,1,Jacobus H.,van 't Hoff,male,Rotterdam,the Netherlands,Europe,Berlin,Germany,Europe
+569,2,Sully,Prudhomme,male,Paris,France,Europe,Châtenay,France,Europe
+463,3,Frédéric,Passy,male,Paris,France,Europe,Paris,France,Europe
+462,3,Henry,Dunant,male,Geneva,Switzerland,Europe,Heiden,Switzerland,Europe
+1,4,Wilhelm Conrad,Röntgen,male,Lennep,Prussia,Europe,Munich,Germany,Europe
+293,5,Emil,von Behring,male,Hansdorf,Prussia,Europe,Marburg,Germany,Europe
+161,6,Emil,Fischer,male,Euskirchen,Prussia,Europe,Berlin,Germany,Europe
+571,7,Theodor,Mommsen,male,Garding,Schleswig,Europe,Charlottenburg,Germany,Europe
+465,8,Albert,Gobat,male,Tramelan,Switzerland,Europe,Bern,Switzerland,Europe
+464,8,Élie,Ducommun,male,Geneva,Switzerland,Europe,Bern,Switzerland,Europe
+2,9,Hendrik A.,Lorentz,male,Arnhem,the Netherlands,Europe,NA,the Netherlands,Europe
+3,9,Pieter,Zeeman,male,Zonnemaire,the Netherlands,Europe,Amsterdam,the Netherlands,Europe
+294,10,Ronald,Ross,male,Almora,India,Asia,Putney Heath,United Kingdom,Europe
+162,11,Svante,Arrhenius,male,Vik,Sweden,Europe,Stockholm,Sweden,Europe
+572,12,Bjørnstjerne,Bjørnson,male,Kvikne,Norway,Europe,Paris,France,Europe
+466,13,Randal,Cremer,male,Fareham,United Kingdom,Europe,London,United Kingdom,Europe
+4,14,Henri,Becquerel,male,Paris,France,Europe,NA,France,Europe
+6,14,Marie,Curie,female,Warsaw,Russian Empire,Europe,Sallanches,France,Europe
+5,14,Pierre,Curie,male,Paris,France,Europe,Paris,France,Europe
+295,15,Niels Ryberg,Finsen,male,Thorshavn,Faroe Islands (Denmark),Europe,Copenhagen,Denmark,Europe
+163,16,Sir William,Ramsay,male,Glasgow,Scotland,Europe,High Wycombe,United Kingdom,Europe
+573,17,Frédéric,Mistral,male,Maillane,France,Europe,Maillane,France,Europe
+574,17,José,Echegaray,male,Madrid,Spain,Europe,Madrid,Spain,Europe
+8,19,Lord,Rayleigh,male,"Langford Grove, Maldon, Essex",United Kingdom,Europe,NA,United Kingdom,Europe
+296,20,Ivan,Pavlov,male,Ryazan,Russia,Europe,Leningrad,Russia,Europe
+164,21,Adolf,von Baeyer,male,Berlin,Prussia,Europe,Starnberg,Germany,Europe
+575,22,Henryk,Sienkiewicz,male,Wola Okrzejska,Poland,Europe,Vevey,Switzerland,Europe
+468,23,Bertha,von Suttner,female,Prague,Austrian Empire,Europe,Vienna,Austria,Europe
+9,24,Philipp,Lenard,male,Pressburg,Hungary,Europe,Messelhausen,Germany,Europe
+297,25,Robert,Koch,male,Clausthal,Germany,Europe,Baden-Baden,Germany,Europe
+165,26,Henri,Moissan,male,Paris,France,Europe,Paris,France,Europe
+576,27,Giosuè,Carducci,male,Val di Castello,Tuscany,Europe,Bologna,Italy,Europe
+470,28,Theodore,Roosevelt,male,"New York, NY",USA,North America,"Oyster Bay, NY",USA,North America
+10,29,J.J.,Thomson,male,Cheetham Hill,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+298,30,Camillo,Golgi,male,Corteno,Italy,Europe,Pavia,Italy,Europe
+299,30,Santiago,Ramón y Cajal,male,Petilla de Aragón,Spain,Europe,Madrid,Spain,Europe
+166,31,Eduard,Buchner,male,Munich,Bavaria,Europe,Focsani,Romania,Europe
+577,32,Rudyard,Kipling,male,Bombay,British India,Asia,London,United Kingdom,Europe
+471,33,Ernesto Teodoro,Moneta,male,Milan,Austrian Empire,Europe,Milan,Italy,Europe
+472,33,Louis,Renault,male,Autun,France,Europe,Barbizon,France,Europe
+11,34,Albert A.,Michelson,male,Strelno,Prussia,Europe,"Pasadena, CA",USA,North America
+300,35,Alphonse,Laveran,male,Paris,France,Europe,Paris,France,Europe
+167,36,Ernest,Rutherford,male,Nelson,New Zealand,Oceania,Cambridge,United Kingdom,Europe
+578,37,Rudolf,Eucken,male,Aurich,East Friesland,Europe,Jena,Germany,Europe
+474,38,Fredrik,Bajer,male,Næstved,Denmark,Europe,Copenhagen,Denmark,Europe
+473,38,Klas Pontus,Arnoldson,male,Gothenburg,Sweden,Europe,Stockholm,Sweden,Europe
+12,39,Gabriel,Lippmann,male,Hollerich,Luxembourg,Europe,NA,NA,NA
+301,40,Ilya,Mechnikov,male,Kharkov,Russian Empire,Europe,Paris,France,Europe
+302,40,Paul,Ehrlich,male,Strehlen,Prussia,Europe,Bad Homburg vor der Höhe,Germany,Europe
+168,41,Wilhelm,Ostwald,male,Riga,Russian Empire,Europe,Leipzig,Germany,Europe
+579,42,Selma,Lagerlöf,female,Mårbacka,Sweden,Europe,Mårbacka,Sweden,Europe
+475,43,Auguste,Beernaert,male,Ostend,Belgium,Europe,Lucerne,Switzerland,Europe
+476,43,Paul Henri,d'Estournelles de Constant,male,La Flèche,France,Europe,Paris,France,Europe
+14,44,Ferdinand,Braun,male,Fulda,Hesse-Kassel,Europe,"Brooklyn, NY",USA,North America
+13,44,Guglielmo,Marconi,male,Bologna,Italy,Europe,Rome,Italy,Europe
+303,45,Theodor,Kocher,male,Bern,Switzerland,Europe,Bern,Switzerland,Europe
+169,46,Otto,Wallach,male,Koenigsberg,Germany,Europe,Göttingen,Germany,Europe
+580,47,Paul,Heyse,male,Berlin,Prussia,Europe,Munich,Germany,Europe
+15,49,Johannes Diderik,van der Waals,male,Leiden,the Netherlands,Europe,Amsterdam,the Netherlands,Europe
+304,50,Albrecht,Kossel,male,Rostock,Mecklenburg,Europe,Heidelberg,Germany,Europe
+6,51,Marie,Curie,female,Warsaw,Russian Empire,Europe,Sallanches,France,Europe
+581,52,Maurice,Maeterlinck,male,Ghent,Belgium,Europe,Nice,France,Europe
+479,53,Alfred,Fried,male,Vienna,Austria,Europe,Vienna,Austria,Europe
+478,53,Tobias,Asser,male,Amsterdam,the Netherlands,Europe,the Hague,the Netherlands,Europe
+16,54,Wilhelm,Wien,male,Gaffken,Prussia,Europe,Munich,Germany,Europe
+305,55,Allvar,Gullstrand,male,Landskrona,Sweden,Europe,Stockholm,Sweden,Europe
+173,56,Paul,Sabatier,male,Carcassonne,France,Europe,Toulouse,France,Europe
+172,56,Victor,Grignard,male,Cherbourg,France,Europe,Lyon,France,Europe
+582,57,Gerhart,Hauptmann,male,Bad Salzbrunn,Prussia,Europe,Agnetendorf,Germany,Europe
+480,58,Elihu,Root,male,"Clinton, NY",USA,North America,"New York, NY",USA,North America
+17,59,Gustaf,Dalén,male,Stenstorp,Sweden,Europe,Stockholm,Sweden,Europe
+306,60,Alexis,Carrel,male,Sainte-Foy-lès-Lyon,France,Europe,Paris,France,Europe
+174,61,Alfred,Werner,male,Mulhouse,France,Europe,Zurich,Switzerland,Europe
+583,62,Rabindranath,Tagore,male,Calcutta,India,Asia,Calcutta,India,Asia
+481,63,Henri,La Fontaine,male,Brussels,Belgium,Europe,Brussels,Belgium,Europe
+18,64,Heike,Kamerlingh Onnes,male,Groningen,the Netherlands,Europe,Leiden,the Netherlands,Europe
+307,65,Charles,Richet,male,Paris,France,Europe,Paris,France,Europe
+175,66,Theodore W.,Richards,male,"Germantown, PA",USA,North America,"Cambridge, MA",USA,North America
+19,69,Max,von Laue,male,Pfaffendorf,Germany,Europe,Berlin,West Germany,Europe
+308,70,Robert,Bárány,male,Vienna,Austria,Europe,Uppsala,Sweden,Europe
+176,71,Richard,Willstätter,male,Karlsruhe,Germany,Europe,Locarno,Switzerland,Europe
+584,72,Romain,Rolland,male,Clamecy,France,Europe,Vézelay,France,Europe
+21,74,Lawrence,Bragg,male,Adelaide,Australia,Oceania,Ipswich,United Kingdom,Europe
+20,74,William,Bragg,male,Wigton,United Kingdom,Europe,London,United Kingdom,Europe
+585,77,Verner,von Heidenstam,male,Olshammar,Sweden,Europe,Övralid,Sweden,Europe
+587,82,Henrik,Pontoppidan,male,Fredericia,Denmark,Europe,Ordrup,Denmark,Europe
+586,82,Karl,Gjellerup,male,Roholte,Denmark,Europe,Klotzsche,Germany,Europe
+22,84,Charles Glover,Barkla,male,Widnes,United Kingdom,Europe,Edinburgh,Scotland,Europe
+177,86,Fritz,Haber,male,Breslau,Prussia,Europe,Basel,Switzerland,Europe
+23,89,Max,Planck,male,Kiel,Schleswig,Europe,Göttingen,West Germany,Europe
+588,92,Carl,Spitteler,male,Liestal,Switzerland,Europe,Lucerne,Switzerland,Europe
+483,93,Woodrow,Wilson,male,"Staunton, VA",USA,North America,"Washington, D.C.",USA,North America
+24,94,Johannes,Stark,male,Schickenhof,Germany,Europe,Traunstein,West Germany,Europe
+309,95,Jules,Bordet,male,Soignies,Belgium,Europe,Brussels,Belgium,Europe
+178,96,Walther,Nernst,male,Briesen,Prussia,Europe,Zibelle,Germany,Europe
+589,97,Knut,Hamsun,male,Lom,Norway,Europe,Grimstad,Norway,Europe
+484,98,Léon,Bourgeois,male,Paris,France,Europe,Épernay,France,Europe
+25,99,Charles Edouard,Guillaume,male,Fleurier,Switzerland,Europe,Sèvres,France,Europe
+310,100,August,Krogh,male,Grenå,Denmark,Europe,Copenhagen,Denmark,Europe
+179,101,Frederick,Soddy,male,Eastbourne,United Kingdom,Europe,Brighton,United Kingdom,Europe
+590,102,Anatole,France,male,Paris,France,Europe,Saint-Cyr-sur-Loire,France,Europe
+486,103,Christian,Lange,male,Stavanger,Norway,Europe,Oslo,Norway,Europe
+485,103,Hjalmar,Branting,male,Stockholm,Sweden,Europe,Stockholm,Sweden,Europe
+26,104,Albert,Einstein,male,Ulm,Germany,Europe,"Princeton, NJ",USA,North America
+180,106,Francis W.,Aston,male,Harborne,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+592,107,Jacinto,Benavente,male,Madrid,Spain,Europe,Madrid,Spain,Europe
+487,108,Fridtjof,Nansen,male,Kristiania,Norway,Europe,Oslo,Norway,Europe
+27,109,Niels,Bohr,male,Copenhagen,Denmark,Europe,Copenhagen,Denmark,Europe
+311,110,Archibald V.,Hill,male,Bristol,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+312,110,Otto,Meyerhof,male,Hanover,Germany,Europe,"Philadelphia, PA",USA,North America
+181,111,Fritz,Pregl,male,Laibach,Austria-Hungary,Europe,Graz,Austria,Europe
+593,112,William Butler,Yeats,male,Dublin,Ireland,Europe,Roquebrune-Cap-Martin,France,Europe
+28,114,Robert A.,Millikan,male,"Morrison, IL",USA,North America,"San Marino, CA",USA,North America
+313,115,Frederick G.,Banting,male,Alliston,Canada,North America,Newfoundland,Canada,North America
+314,115,John,Macleod,male,Cluny,Scotland,Europe,Aberdeen,Scotland,Europe
+594,117,Władysław,Reymont,male,Kobiele Wielkie,Russian Empire,Europe,Warsaw,Poland,Europe
+29,119,Manne,Siegbahn,male,Örebro,Sweden,Europe,Stockholm,Sweden,Europe
+315,120,Willem,Einthoven,male,Semarang,"Java, Dutch East Indies",Asia,Leiden,the Netherlands,Europe
+182,121,Richard,Zsigmondy,male,Vienna,Austrian Empire,Europe,Göttingen,Germany,Europe
+596,122,George Bernard,Shaw,male,Dublin,Ireland,Europe,Ayot St. Lawrence,United Kingdom,Europe
+489,123,Charles G.,Dawes,male,"Marietta, OH",USA,North America,"Evanston, IL",USA,North America
+488,123,Sir Austen,Chamberlain,male,Birmingham,United Kingdom,Europe,London,United Kingdom,Europe
+31,124,Gustav,Hertz,male,Hamburg,Germany,Europe,Berlin,East Germany,Europe
+30,124,James,Franck,male,Hamburg,Germany,Europe,Göttingen,West Germany,Europe
+183,126,The,Svedberg,male,Fleräng,Sweden,Europe,Örebro,Sweden,Europe
+597,127,Grazia,Deledda,female,"Nuoro, Sardinia",Italy,Europe,Rome,Italy,Europe
+490,128,Aristide,Briand,male,Nantes,France,Europe,Paris,France,Europe
+491,128,Gustav,Stresemann,male,Berlin,Germany,Europe,Berlin,Germany,Europe
+32,129,Jean Baptiste,Perrin,male,Lille,France,Europe,"New York, NY",USA,North America
+316,130,Johannes,Fibiger,male,Silkeborg,Denmark,Europe,Copenhagen,Denmark,Europe
+184,131,Heinrich,Wieland,male,Pforzheim,Germany,Europe,Munich,West Germany,Europe
+600,132,Henri,Bergson,male,Paris,France,Europe,Paris,France,Europe
+492,133,Ferdinand,Buisson,male,Paris,France,Europe,Thieuloy-Saint-Antoine,France,Europe
+493,133,Ludwig,Quidde,male,Bremen,Germany,Europe,Geneva,Switzerland,Europe
+33,134,Arthur H.,Compton,male,"Wooster, OH",USA,North America,"Berkeley, CA",USA,North America
+34,134,C.T.R.,Wilson,male,Glencorse,Scotland,Europe,Carlops,Scotland,Europe
+317,135,Julius,Wagner-Jauregg,male,Wels,Austria,Europe,Vienna,Austria,Europe
+185,136,Adolf,Windaus,male,Berlin,Germany,Europe,Göttingen,West Germany,Europe
+601,137,Sigrid,Undset,female,Kalundborg,Denmark,Europe,Lillehammer,Norway,Europe
+35,139,Owen Willans,Richardson,male,Dewsbury,United Kingdom,Europe,Alton,United Kingdom,Europe
+318,140,Charles,Nicolle,male,Rouen,France,Europe,Tunis,Tunisia,Africa
+186,141,Arthur,Harden,male,Manchester,United Kingdom,Europe,Bourne,United Kingdom,Europe
+187,141,Hans,von Euler-Chelpin,male,Augsburg,Germany,Europe,Stockholm,Sweden,Europe
+602,142,Thomas,Mann,male,Lübeck,Germany,Europe,Zurich,Switzerland,Europe
+494,143,Frank B.,Kellogg,male,"Potsdam, NY",USA,North America,"St. Paul, MN",USA,North America
+36,144,Louis,de Broglie,male,Dieppe,France,Europe,Paris,France,Europe
+319,145,Christiaan,Eijkman,male,Nijkerk,the Netherlands,Europe,Utrecht,the Netherlands,Europe
+320,145,Sir Frederick,Hopkins,male,Eastbourne,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+188,146,Hans,Fischer,male,Hoechst,Germany,Europe,Munich,Germany,Europe
+603,147,Sinclair,Lewis,male,"Sauk Centre, MN",USA,North America,Rome,Italy,Europe
+495,148,Nathan,Söderblom,male,Trönö,Sweden,Europe,Uppsala,Sweden,Europe
+37,149,Sir Chandrasekhara Venkata,Raman,male,Tiruchirappalli,India,Asia,Bangalore,India,Asia
+321,150,Karl,Landsteiner,male,Vienna,Austrian Empire,Europe,"New York, NY",USA,North America
+189,151,Carl,Bosch,male,Cologne,Germany,Europe,Heidelberg,Germany,Europe
+190,151,Friedrich,Bergius,male,"Goldschmieden, near Breslau",Germany,Europe,Buenos Aires,Argentina,South America
+604,152,Erik Axel,Karlfeldt,male,Karlbo,Sweden,Europe,Stockholm,Sweden,Europe
+496,153,Jane,Addams,female,"Cedarville, IL",USA,North America,"Chicago, IL",USA,North America
+497,153,Nicholas Murray,Butler,male,"Elizabeth, NJ",USA,North America,"New York, NY",USA,North America
+322,155,Otto,Warburg,male,Freiburg im Breisgau,Germany,Europe,West Berlin,West Germany,Europe
+191,156,Irving,Langmuir,male,"Brooklyn, NY",USA,North America,"Falmouth, MA",USA,North America
+605,157,John,Galsworthy,male,Kingston Hill,United Kingdom,Europe,London,United Kingdom,Europe
+38,159,Werner,Heisenberg,male,Würzburg,Germany,Europe,Munich,West Germany,Europe
+324,160,Edgar,Adrian,male,London,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+323,160,Sir Charles,Sherrington,male,London,United Kingdom,Europe,Eastbourne,United Kingdom,Europe
+606,162,Ivan,Bunin,male,Voronezh,Russia,Europe,Paris,France,Europe
+498,163,Sir Norman,Angell,male,Holbeach,United Kingdom,Europe,Croydon,United Kingdom,Europe
+39,164,Erwin,Schrödinger,male,Vienna,Austria,Europe,Vienna,Austria,Europe
+40,164,Paul A.M.,Dirac,male,Bristol,United Kingdom,Europe,"Tallahassee, FL",USA,North America
+325,165,Thomas H.,Morgan,male,"Lexington, KY",USA,North America,"Pasadena, CA",USA,North America
+192,166,Harold C.,Urey,male,"Walkerton, IN",USA,North America,"La Jolla, CA",USA,North America
+607,167,Luigi,Pirandello,male,"Agrigento, Sicily",Italy,Europe,Rome,Italy,Europe
+499,168,Arthur,Henderson,male,Glasgow,Scotland,Europe,London,United Kingdom,Europe
+326,170,George H.,Whipple,male,"Ashland, NH",USA,North America,"Rochester, NY",USA,North America
+327,170,George R.,Minot,male,"Boston, MA",USA,North America,"Brookline, MA",USA,North America
+328,170,William P.,Murphy,male,"Stoughton, WI",USA,North America,"Brookline, MA",USA,North America
+193,171,Frédéric,Joliot,male,Paris,France,Europe,Paris,France,Europe
+194,171,Irène,Joliot-Curie,female,Paris,France,Europe,Paris,France,Europe
+500,173,Carl,von Ossietzky,male,Hamburg,Germany,Europe,Berlin,Germany,Europe
+41,174,James,Chadwick,male,Manchester,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+329,175,Hans,Spemann,male,Stuttgart,Württemberg,Europe,Freiburg im Breisgau,Germany,Europe
+195,176,Peter,Debye,male,Maastricht,the Netherlands,Europe,"Ithaca, NY",USA,North America
+608,177,Eugene,O'Neill,male,"New York, NY",USA,North America,"Boston, MA",USA,North America
+501,178,Carlos,Saavedra Lamas,male,Buenos Aires,Argentina,South America,Buenos Aires,Argentina,South America
+43,179,Carl D.,Anderson,male,"New York, NY",USA,North America,"San Marino, CA",USA,North America
+42,179,Victor F.,Hess,male,Peggau,Austria,Europe,"Mount Vernon, NY",USA,North America
+331,180,Otto,Loewi,male,Frankfurt-on-the-Main,Germany,Europe,"New York, NY",USA,North America
+330,180,Sir Henry,Dale,male,London,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+196,181,Norman,Haworth,male,Chorley,United Kingdom,Europe,Birmingham,United Kingdom,Europe
+197,181,Paul,Karrer,male,Moscow,Russia,Europe,Zurich,Switzerland,Europe
+609,182,Roger,Martin du Gard,male,Neuilly-sur-Seine,France,Europe,Bellême,France,Europe
+502,183,Robert,Cecil,male,London,United Kingdom,Europe,Tunbridge Wells,United Kingdom,Europe
+44,184,Clinton,Davisson,male,"Bloomington, IL",USA,North America,"Charlottesville, VA",USA,North America
+45,184,George Paget,Thomson,male,Cambridge,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+332,185,Albert,Szent-Györgyi,male,Budapest,Austria-Hungary,Europe,"Woods Hole, MA",USA,North America
+198,186,Richard,Kuhn,male,Vienna,Austria-Hungary,Europe,Heidelberg,West Germany,Europe
+610,187,Pearl,Buck,female,"Hillsboro, WV",USA,North America,"Danby, VT",USA,North America
+46,189,Enrico,Fermi,male,Rome,Italy,Europe,"Chicago, IL",USA,North America
+333,190,Corneille,Heymans,male,Ghent,Belgium,Europe,Knokke,Belgium,Europe
+199,191,Adolf,Butenandt,male,Bremerhaven-Lehe,Germany,Europe,Munich,Germany,Europe
+200,191,Leopold,Ruzicka,male,Vukovar,Austria-Hungary,Europe,Zurich,Switzerland,Europe
+613,192,Frans Eemil,Sillanpää,male,Hämeenkyrö,Russian Empire,Europe,Helsinki,Finland,Europe
+47,194,Ernest,Lawrence,male,"Canton, SD",USA,North America,"Palo Alto, CA",USA,North America
+334,195,Gerhard,Domagk,male,Lagow,Germany,Europe,Burgberg,West Germany,Europe
+201,211,George,de Hevesy,male,Budapest,Austria-Hungary,Europe,Freiburg im Breisgau,West Germany,Europe
+48,214,Otto,Stern,male,Sorau,Germany,Europe,"Berkeley, CA",USA,North America
+336,215,Edward A.,Doisy,male,"Hume, IL",USA,North America,"St. Louis, MO",USA,North America
+335,215,Henrik,Dam,male,Copenhagen,Denmark,Europe,Copenhagen,Denmark,Europe
+202,216,Otto,Hahn,male,Frankfurt-on-the-Main,Germany,Europe,Göttingen,West Germany,Europe
+614,217,Johannes V.,Jensen,male,Farsø,Denmark,Europe,Copenhagen,Denmark,Europe
+49,219,Isidor Isaac,Rabi,male,Rymanow,Austria-Hungary,Europe,"New York, NY",USA,North America
+338,220,Herbert S.,Gasser,male,"Platteville, WI",USA,North America,"New York, NY",USA,North America
+337,220,Joseph,Erlanger,male,"San Francisco, CA",USA,North America,"St. Louis, MO",USA,North America
+203,221,Artturi,Virtanen,male,Helsinki,Russian Empire,Europe,Helsinki,Finland,Europe
+615,222,Gabriela,Mistral,female,Vicuña,Chile,South America,"Hempstead, NY",USA,North America
+505,223,Cordell,Hull,male,"Olympus, TN",USA,North America,"Bethesda, MD",USA,North America
+50,224,Wolfgang,Pauli,male,Vienna,Austria,Europe,Zurich,Switzerland,Europe
+340,225,Ernst B.,Chain,male,Berlin,Germany,Europe,Mulrany,Ireland,Europe
+339,225,Sir Alexander,Fleming,male,Lochfield,Scotland,Europe,London,United Kingdom,Europe
+341,225,Sir Howard,Florey,male,Adelaide,Australia,Oceania,Oxford,United Kingdom,Europe
+204,226,James B.,Sumner,male,"Canton, MA",USA,North America,"Buffalo, NY",USA,North America
+205,226,John H.,Northrop,male,"Yonkers, NY",USA,North America,"Wickenberg, AZ",USA,North America
+206,226,Wendell M.,Stanley,male,"Ridgeville, IN",USA,North America,Salamanca,Spain,Europe
+617,227,Hermann,Hesse,male,Calw,Germany,Europe,Montagnola,Switzerland,Europe
+506,228,Emily Greene,Balch,female,"Jamaica Plain, MA",USA,North America,"Cambridge, MA",USA,North America
+507,228,John R.,Mott,male,"Livingston Manor, NY",USA,North America,NA,USA,North America
+51,229,Percy W.,Bridgman,male,"Cambridge, MA",USA,North America,"Randolph, NH",USA,North America
+342,230,Hermann J.,Muller,male,"New York, NY",USA,North America,"Indianapolis, IN",USA,North America
+207,231,Sir Robert,Robinson,male,"Rufford, near Chesterfield",United Kingdom,Europe,Great Missenden,United Kingdom,Europe
+618,232,André,Gide,male,Paris,France,Europe,Paris,France,Europe
+52,234,Edward V.,Appleton,male,Bradford,United Kingdom,Europe,Edinburgh,Scotland,Europe
+345,235,Bernardo,Houssay,male,Buenos Aires,Argentina,South America,Buenos Aires,Argentina,South America
+343,235,Carl,Cori,male,Prague,Austria-Hungary,Europe,"Cambridge, MA",USA,North America
+344,235,Gerty,Cori,female,Prague,Austria-Hungary,Europe,"St. Louis, MO",USA,North America
+208,236,Arne,Tiselius,male,Stockholm,Sweden,Europe,Uppsala,Sweden,Europe
+619,237,T.S.,Eliot,male,"St. Louis, MO",USA,North America,London,United Kingdom,Europe
+53,239,Patrick M.S.,Blackett,male,London,United Kingdom,Europe,London,United Kingdom,Europe
+346,240,Paul,Müller,male,Olten,Switzerland,Europe,Basel,Switzerland,Europe
+209,241,William F.,Giauque,male,Niagara Falls,Canada,North America,"Berkeley, CA",USA,North America
+620,242,William,Faulkner,male,"New Albany, MS",USA,North America,"Byhalia, MS",USA,North America
+510,243,John,Boyd Orr,male,Kilmaurs,Scotland,Europe,Edzell,Scotland,Europe
+54,244,Hideki,Yukawa,male,Tokyo,Japan,Asia,Kyoto,Japan,Asia
+348,245,Egas,Moniz,male,Avanca,Portugal,Europe,Lisbon,Portugal,Europe
+347,245,Walter,Hess,male,Frauenfeld,Switzerland,Europe,Ascona,Switzerland,Europe
+211,246,Kurt,Alder,male,Königshütte,Prussia,Europe,Cologne,West Germany,Europe
+210,246,Otto,Diels,male,Hamburg,Germany,Europe,Kiel,West Germany,Europe
+621,247,Bertrand,Russell,male,Trelleck,United Kingdom,Europe,Penrhyndeudraeth,United Kingdom,Europe
+511,248,Ralph,Bunche,male,"Detroit, MI",USA,North America,"New York, NY",USA,North America
+55,249,Cecil,Powell,male,Tonbridge,United Kingdom,Europe,NA,Italy,Europe
+349,250,Edward C.,Kendall,male,"South Norwalk, CT",USA,North America,"Princeton, NJ",USA,North America
+351,250,Philip S.,Hench,male,"Pittsburgh, PA",USA,North America,Ocho Rios,Jamaica,North America
+350,250,Tadeus,Reichstein,male,Wloclawek,Poland,Europe,Basel,Switzerland,Europe
+212,251,Edwin M.,McMillan,male,"Redondo Beach, CA",USA,North America,"El Cerrito, CA",USA,North America
+213,251,Glenn T.,Seaborg,male,"Ishpeming, MI",USA,North America,"Lafayette, CA",USA,North America
+622,252,Pär,Lagerkvist,male,Växjö,Sweden,Europe,Stockholm,Sweden,Europe
+512,253,Léon,Jouhaux,male,Paris,France,Europe,Paris,France,Europe
+57,254,Ernest T.S.,Walton,male,Dungarvan,Ireland,Europe,Belfast,Northern Ireland,Europe
+56,254,John,Cockcroft,male,Todmorden,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+352,255,Max,Theiler,male,Pretoria,South Africa,Africa,"New Haven, CT",USA,North America
+214,256,Archer J.P.,Martin,male,London,United Kingdom,Europe,Llangarron,United Kingdom,Europe
+215,256,Richard L.M.,Synge,male,Liverpool,United Kingdom,Europe,Norwich,United Kingdom,Europe
+623,257,François,Mauriac,male,Bordeaux,France,Europe,Paris,France,Europe
+513,258,Albert,Schweitzer,male,Kaysersberg,Germany,Europe,Lambaréné,Gabon,Africa
+59,259,E. M.,Purcell,male,"Taylorville, IL",USA,North America,"Cambridge, MA",USA,North America
+58,259,Felix,Bloch,male,Zurich,Switzerland,Europe,Zurich,Switzerland,Europe
+353,260,Selman A.,Waksman,male,Priluka,Russian Empire,Europe,"Hyannis, MA",USA,North America
+216,261,Hermann,Staudinger,male,Worms,Germany,Europe,Freiburg im Breisgau,West Germany,Europe
+624,262,Winston,Churchill,male,Woodstock,United Kingdom,Europe,London,United Kingdom,Europe
+514,263,George C.,Marshall,male,"Uniontown, PA",USA,North America,"Washington, D.C.",USA,North America
+60,264,Frits,Zernike,male,Amsterdam,the Netherlands,Europe,Groningen,the Netherlands,Europe
+355,265,Fritz,Lipmann,male,Koenigsberg,Germany,Europe,"Poughkeepsie, NY",USA,North America
+354,265,Hans,Krebs,male,Hildesheim,Germany,Europe,Oxford,United Kingdom,Europe
+217,266,Linus,Pauling,male,"Portland, OR",USA,North America,"Big Sur, CA",USA,North America
+625,267,Ernest,Hemingway,male,"Oak Park, IL",USA,North America,"Ketchum, ID",USA,North America
+61,269,Max,Born,male,Breslau,Germany,Europe,Göttingen,West Germany,Europe
+62,269,Walther,Bothe,male,Oranienburg,Germany,Europe,Heidelberg,West Germany,Europe
+358,270,Frederick C.,Robbins,male,"Auburn, AL",USA,North America,"Cleveland, OH",USA,North America
+356,270,John F.,Enders,male,"West Hartford, CT",USA,North America,"Waterford, CT",USA,North America
+357,270,Thomas H.,Weller,male,"Ann Arbor, MI",USA,North America,"Needham, MA",USA,North America
+218,271,Vincent,du Vigneaud,male,"Chicago, IL",USA,North America,"White Plains, NY",USA,North America
+626,272,Halldór,Laxness,male,Reykjavik,Iceland,Europe,Reykjavik,Iceland,Europe
+64,274,Polykarp,Kusch,male,Blankenburg,Germany,Europe,"Dallas, TX",USA,North America
+63,274,Willis E.,Lamb,male,"Los Angeles, CA",USA,North America,"Tucson, AZ",USA,North America
+359,275,Hugo,Theorell,male,Linköping,Sweden,Europe,Stockholm,Sweden,Europe
+220,276,Nikolay,Semenov,male,Saratov,Russia,Europe,Moscow,USSR,Europe
+219,276,Sir Cyril,Hinshelwood,male,London,United Kingdom,Europe,London,United Kingdom,Europe
+627,277,Juan Ramón,Jiménez,male,Moguer,Spain,Europe,San Juan,Puerto Rico,North America
+66,279,John,Bardeen,male,"Madison, WI",USA,North America,"Boston, MA",USA,North America
+67,279,Walter H.,Brattain,male,Amoy,China,Asia,"Seattle, WA",USA,North America
+65,279,William B.,Shockley,male,London,United Kingdom,Europe,"Palo Alto, CA",USA,North America
+360,280,André F.,Cournand,male,Paris,France,Europe,"Great Barrington, MA",USA,North America
+362,280,Dickinson W.,Richards,male,"Orange, NJ",USA,North America,"Lakeville, CT",USA,North America
+361,280,Werner,Forssmann,male,Berlin,Germany,Europe,Schopfheim,West Germany,Europe
+221,281,Lord,Todd,male,Glasgow,Scotland,Europe,Cambridge,United Kingdom,Europe
+628,282,Albert,Camus,male,Mondovi,French Algeria,Africa,Sens,France,Europe
+516,283,Lester Bowles,Pearson,male,Toronto,Canada,North America,Ottawa,Canada,North America
+68,284,Chen Ning,Yang,male,"Hofei, Anhwei",China,Asia,NA,NA,NA
+69,284,Tsung-Dao,Lee,male,Shanghai,China,Asia,"San Francisco, CA",USA,North America
+363,285,Daniel,Bovet,male,Neuchâtel,Switzerland,Europe,Rome,Italy,Europe
+222,286,Frederick,Sanger,male,Rendcombe,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+629,287,Boris,Pasternak,male,Moscow,Russia,Europe,Peredelkino,Russia,Europe
+517,288,Georges,Pire,male,Dinant,Belgium,Europe,Leuven,Belgium,Europe
+71,289,Igor Y.,Tamm,male,Vladivostok,Russia,Europe,Moscow,USSR,Europe
+721,289,Il´ja M.,Frank,male,Leningrad,Russia,Europe,Moscow,USSR,Europe
+70,289,Pavel A.,Cherenkov,male,Novaya Chigla,Russia,Europe,NA,USSR,Europe
+365,290,Edward,Tatum,male,"Boulder, CO",USA,North America,"New York, NY",USA,North America
+364,290,George,Beadle,male,"Wahoo, NE",USA,North America,"Pomona, CA",USA,North America
+366,290,Joshua,Lederberg,male,"Montclair, NJ",USA,North America,"New York, NY",USA,North America
+223,291,Jaroslav,Heyrovsky,male,Prague,Austria-Hungary,Europe,Prague,Czechoslovakia,Europe
+630,292,Salvatore,Quasimodo,male,Modica,Italy,Europe,Naples,Italy,Europe
+518,293,Philip,Noel-Baker,male,London,United Kingdom,Europe,London,United Kingdom,Europe
+72,294,Emilio,Segrè,male,Tivoli,Italy,Europe,"Lafayette, CA",USA,North America
+73,294,Owen,Chamberlain,male,"San Francisco, CA",USA,North America,"Berkeley, CA",USA,North America
+368,295,Arthur,Kornberg,male,"Brooklyn, NY",USA,North America,"Stanford, CA",USA,North America
+367,295,Severo,Ochoa,male,Luarca,Spain,Europe,Madrid,Spain,Europe
+224,296,Willard F.,Libby,male,"Grand Valley, CO",USA,North America,"Los Angeles, CA",USA,North America
+631,297,Saint-John,Perse,male,Pointe-à-Pitre,"Guadeloupe, France",North America,Presqu'île-de-Giens,France,Europe
+519,298,Albert,Lutuli,male,Bulawayo,Southern Rhodesia,Africa,Stanger,South Africa,Africa
+74,299,Donald A.,Glaser,male,"Cleveland, OH",USA,North America,"Berkeley, CA",USA,North America
+370,300,Peter,Medawar,male,Rio de Janeiro,Brazil,South America,London,United Kingdom,Europe
+369,300,Sir Frank Macfarlane,Burnet,male,Traralgon,Australia,Oceania,Melbourne,Australia,Oceania
+225,301,Melvin,Calvin,male,"St. Paul, MN",USA,North America,"Berkeley, CA",USA,North America
+633,302,Ivo,Andrić,male,Dolac,Bosnia,Europe,Belgrade,Yugoslavia,Europe
+520,303,Dag,Hammarskjöld,male,Jönköping,Sweden,Europe,Ndola,Northern Rhodesia,Africa
+75,304,Robert,Hofstadter,male,"New York, NY",USA,North America,"Stanford, CA",USA,North America
+76,304,Rudolf,Mössbauer,male,Munich,Germany,Europe,NA,NA,NA
+371,305,Georg,von Békésy,male,Budapest,Hungary,Europe,"Honolulu, HI",USA,North America
+227,306,John C.,Kendrew,male,Oxford,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+226,306,Max F.,Perutz,male,Vienna,Austria,Europe,Cambridge,United Kingdom,Europe
+634,307,John,Steinbeck,male,"Salinas, CA",USA,North America,"New York, NY",USA,North America
+217,308,Linus,Pauling,male,"Portland, OR",USA,North America,"Big Sur, CA",USA,North America
+77,309,Lev,Landau,male,Baku,Russian Empire,Asia,Moscow,USSR,Europe
+372,310,Francis,Crick,male,Northampton,United Kingdom,Europe,"San Diego, CA",USA,North America
+373,310,James,Watson,male,"Chicago, IL",USA,North America,NA,NA,NA
+374,310,Maurice,Wilkins,male,Pongaroa,New Zealand,Oceania,London,United Kingdom,Europe
+229,311,Giulio,Natta,male,Imperia,Italy,Europe,Bergamo,Italy,Europe
+228,311,Karl,Ziegler,male,Helsa,Germany,Europe,Mülheim,West Germany,Europe
+635,312,Giorgos,Seferis,male,Smyrna,Ottoman Empire,Asia,Athens,Greece,Europe
+78,314,Eugene,Wigner,male,Budapest,Austria-Hungary,Europe,"Princeton, NJ",USA,North America
+80,314,J. Hans D.,Jensen,male,Hamburg,Germany,Europe,Heidelberg,West Germany,Europe
+79,314,Maria,Goeppert Mayer,female,Kattowitz,Germany,Europe,"San Diego, CA",USA,North America
+376,315,Alan,Hodgkin,male,Banbury,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+377,315,Andrew,Huxley,male,Hampstead,United Kingdom,Europe,Grantchester,United Kingdom,Europe
+375,315,Sir John,Eccles,male,Melbourne,Australia,Oceania,Contra,Switzerland,Europe
+230,316,Dorothy Crowfoot,Hodgkin,female,Cairo,Egypt,Africa,Shipston-on-Stour,United Kingdom,Europe
+637,317,Jean-Paul,Sartre,male,Paris,France,Europe,Paris,France,Europe
+524,318,Martin Luther,King Jr.,male,"Atlanta, GA",USA,North America,"Memphis, TN",USA,North America
+83,319,Aleksandr M.,Prokhorov,male,Atherton,Australia,Oceania,Moscow,Russia,Europe
+81,319,Charles H.,Townes,male,"Greenville, SC",USA,North America,"Berkeley, CA",USA,North America
+82,319,Nicolay G.,Basov,male,Usman,USSR,Europe,Moscow,Russia,Europe
+379,320,Feodor,Lynen,male,Munich,Germany,Europe,Munich,Germany,Europe
+378,320,Konrad,Bloch,male,Neisse,Germany,Europe,"Burlington, MA",USA,North America
+231,321,Robert B.,Woodward,male,"Boston, MA",USA,North America,"Cambridge, MA",USA,North America
+638,322,Mikhail,Sholokhov,male,Veshenskaya,Russia,Europe,Veshenskaya,USSR,Europe
+85,324,Julian,Schwinger,male,"New York, NY",USA,North America,"Los Angeles, CA",USA,North America
+86,324,Richard P.,Feynman,male,"New York, NY",USA,North America,"Los Angeles, CA",USA,North America
+84,324,Sin-Itiro,Tomonaga,male,Kyoto,Japan,Asia,Tokyo,Japan,Asia
+381,325,André,Lwoff,male,Ainay-le-Château,France,Europe,Paris,France,Europe
+380,325,François,Jacob,male,Nancy,France,Europe,Paris,France,Europe
+382,325,Jacques,Monod,male,Paris,France,Europe,Cannes,France,Europe
+232,326,Robert S.,Mulliken,male,"Newburyport, MA",USA,North America,"Arlington, VA",USA,North America
+640,327,Nelly,Sachs,female,Berlin,Germany,Europe,Stockholm,Sweden,Europe
+639,327,Shmuel,Agnon,male,Buczacz,Austria-Hungary,Europe,Rehovot,Israel,Asia
+87,329,Alfred,Kastler,male,Guebwiller,Germany,Europe,Bandol,France,Europe
+384,330,Charles B.,Huggins,male,"Halifax, Nova Scotia",Canada,North America,"Chicago, IL",USA,North America
+383,330,Peyton,Rous,male,"Baltimore, MD",USA,North America,"New York, NY",USA,North America
+235,331,George,Porter,male,Stainforth,United Kingdom,Europe,Canterbury,United Kingdom,Europe
+233,331,Manfred,Eigen,male,Bochum,Germany,Europe,Göttingen,Germany,Europe
+234,331,Ronald G.W.,Norrish,male,Cambridge,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+641,332,Miguel Angel,Asturias,male,Guatemala City,Guatemala,North America,Madrid,Spain,Europe
+88,334,Hans,Bethe,male,Strasbourg,Germany,Europe,"Ithaca, NY",USA,North America
+387,335,George,Wald,male,"New York, NY",USA,North America,"Cambridge, MA",USA,North America
+386,335,Keffer,Hartline,male,"Bloomsburg, PA",USA,North America,"Fallston, MD",USA,North America
+385,335,Ragnar,Granit,male,Helsinki,Russian Empire,Europe,Stockholm,Sweden,Europe
+236,336,Lars,Onsager,male,Kristiania,Norway,Europe,"Coral Gables, FL",USA,North America
+642,337,Yasunari,Kawabata,male,Osaka,Japan,Asia,Zushi,Japan,Asia
+526,338,René,Cassin,male,Bayonne,France,Europe,Paris,France,Europe
+89,339,Luis,Alvarez,male,"San Francisco, CA",USA,North America,"Berkeley, CA",USA,North America
+389,340,H. Gobind,Khorana,male,Raipur,India,Asia,"Concord, MA",USA,North America
+390,340,Marshall W.,Nirenberg,male,"New York, NY",USA,North America,"New York, NY",USA,North America
+388,340,Robert W.,Holley,male,"Urbana, IL",USA,North America,"Los Gatos, CA",USA,North America
+237,341,Derek,Barton,male,Gravesend,United Kingdom,Europe,"College Station, TX",USA,North America
+238,341,Odd,Hassel,male,Kristiania,Norway,Europe,Oslo,Norway,Europe
+678,342,Jan,Tinbergen,male,the Hague,the Netherlands,Europe,the Hague,the Netherlands,Europe
+677,342,Ragnar,Frisch,male,Oslo,Norway,Europe,Oslo,Norway,Europe
+643,343,Samuel,Beckett,male,Dublin,Ireland,Europe,Paris,France,Europe
+90,345,Murray,Gell-Mann,male,"New York, NY",USA,North America,"Santa Fe, NM",USA,North America
+392,346,Alfred D.,Hershey,male,"Owosso, MI",USA,North America,"Syosset, NY",USA,North America
+391,346,Max,Delbrück,male,Berlin,Germany,Europe,"Pasadena, CA",USA,North America
+393,346,Salvador E.,Luria,male,Turin,Italy,Europe,"Lexington, MA",USA,North America
+239,347,Luis,Leloir,male,Paris,France,Europe,Buenos Aires,Argentina,South America
+679,348,Paul A.,Samuelson,male,"Gary, IN",USA,North America,"Belmont, MA",USA,North America
+644,349,Aleksandr,Solzhenitsyn,male,Kislovodsk,Russia,Europe,Troitse-Lykovo,Russia,Europe
+528,350,Norman,Borlaug,male,"Cresco, IA",USA,North America,"Dallas, TX",USA,North America
+91,351,Hannes,Alfvén,male,Norrköping,Sweden,Europe,Djursholm,Sweden,Europe
+92,351,Louis,Néel,male,Lyon,France,Europe,Brive-Corrèze,France,Europe
+396,352,Julius,Axelrod,male,"New York, NY",USA,North America,"Rockville, MD",USA,North America
+394,352,Sir Bernard,Katz,male,Leipzig,Germany,Europe,London,United Kingdom,Europe
+395,352,Ulf,von Euler,male,Stockholm,Sweden,Europe,Stockholm,Sweden,Europe
+240,353,Gerhard,Herzberg,male,Hamburg,Germany,Europe,Ottawa,Canada,North America
+680,354,Simon,Kuznets,male,Pinsk,Russian Empire,Europe,"Cambridge, MA",USA,North America
+645,355,Pablo,Neruda,male,Parral,Chile,South America,Santiago,Chile,South America
+529,356,Willy,Brandt,male,Lübeck,Germany,Europe,Unkel,Germany,Europe
+93,357,Dennis,Gabor,male,Budapest,Hungary,Europe,London,United Kingdom,Europe
+397,358,Earl W.,"Sutherland, Jr.",male,"Burlingame, KS",USA,North America,"Miami, FL",USA,North America
+241,359,Christian,Anfinsen,male,"Monessen, PA",USA,North America,"Randallstown, MD",USA,North America
+242,359,Stanford,Moore,male,"Chicago, IL",USA,North America,"New York, NY",USA,North America
+243,359,William H.,Stein,male,"New York, NY",USA,North America,"New York, NY",USA,North America
+681,360,John R.,Hicks,male,Warwick,United Kingdom,Europe,Blockley,United Kingdom,Europe
+682,360,Kenneth J.,Arrow,male,"New York, NY",USA,North America,"Palo Alto, CA",USA,North America
+647,361,Heinrich,Böll,male,Cologne,Germany,Europe,Bornheim-Merten,West Germany,Europe
+66,363,John,Bardeen,male,"Madison, WI",USA,North America,"Boston, MA",USA,North America
+95,363,Leon N.,Cooper,male,"New York, NY",USA,North America,NA,NA,NA
+96,363,Robert,Schrieffer,male,"Oak Park, IL",USA,North America,"Tallahassee, FL",USA,North America
+398,364,Gerald M.,Edelman,male,"New York, NY",USA,North America,"La Jolla, CA",USA,North America
+399,364,Rodney R.,Porter,male,Newton-le-Willows,United Kingdom,Europe,Winchester,United Kingdom,Europe
+244,365,Ernst Otto,Fischer,male,Munich,Germany,Europe,Munich,Germany,Europe
+245,365,Geoffrey,Wilkinson,male,Todmorden,United Kingdom,Europe,London,United Kingdom,Europe
+683,366,Wassily,Leontief,male,St. Petersburg,Russia,Europe,"New York, NY",USA,North America
+648,367,Patrick,White,male,London,United Kingdom,Europe,Sydney,Australia,Oceania
+530,368,Henry,Kissinger,male,Fürth,Germany,Europe,"Kent, CT",USA,North America
+531,368,Le Duc Tho,NA,male,Nam Ha province,Vietnam,Asia,Hanoi,Vietnam,Asia
+99,369,Brian D.,Josephson,male,Cardiff,United Kingdom,Europe,NA,NA,NA
+98,369,Ivar,Giaever,male,Bergen,Norway,Europe,NA,NA,NA
+97,369,Leo,Esaki,male,Osaka,Japan,Asia,NA,NA,NA
+400,370,Karl,von Frisch,male,Vienna,Austria,Europe,Munich,West Germany,Europe
+401,370,Konrad,Lorenz,male,Vienna,Austria,Europe,Vienna,Austria,Europe
+402,370,Nikolaas,Tinbergen,male,the Hague,the Netherlands,Europe,Oxford,United Kingdom,Europe
+246,371,Paul J.,Flory,male,"Sterling, IL",USA,North America,"Big Sur, CA",USA,North America
+685,372,Friedrich,von Hayek,male,Vienna,Austria,Europe,Freiburg,Germany,Europe
+684,372,Gunnar,Myrdal,male,Skattungbyn,Sweden,Europe,Stockholm,Sweden,Europe
+649,373,Eyvind,Johnson,male,Svartbjörnsbyn,Sweden,Europe,Stockholm,Sweden,Europe
+650,373,Harry,Martinson,male,Jämshög,Sweden,Europe,Stockholm,Sweden,Europe
+533,374,Eisaku,Satō,male,Tabuse,Japan,Asia,Tokyo,Japan,Asia
+532,374,Seán,MacBride,male,Paris,France,Europe,Dublin,Ireland,Europe
+101,375,Antony,Hewish,male,Fowey,United Kingdom,Europe,NA,NA,NA
+100,375,Martin,Ryle,male,Brighton,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+403,376,Albert,Claude,male,Longlier,Belgium,Europe,Brussels,Belgium,Europe
+404,376,Christian,de Duve,male,Thames Ditton,United Kingdom,Europe,Nethen,Belgium,Europe
+405,376,George E.,Palade,male,Iasi,Romania,Europe,"Del Mar, CA",USA,North America
+247,377,John,Cornforth,male,Sydney,Australia,Oceania,NA,NA,NA
+248,377,Vladimir,Prelog,male,Sarajevo,Austria-Hungary,Europe,Zurich,Switzerland,Europe
+686,378,Leonid Vitaliyevich,Kantorovich,male,St. Petersburg,Russian Empire,Europe,Moscow,USSR,Europe
+687,378,Tjalling C.,Koopmans,male,'s Graveland,the Netherlands,Europe,"New Haven, CT",USA,North America
+651,379,Eugenio,Montale,male,Genoa,Italy,Europe,Milan,Italy,Europe
+534,380,Andrei,Sakharov,male,Moscow,Russia,Europe,Moscow,USSR,Europe
+102,381,Aage N.,Bohr,male,Copenhagen,Denmark,Europe,Copenhagen,Denmark,Europe
+103,381,Ben R.,Mottelson,male,"Chicago, IL",USA,North America,NA,NA,NA
+104,381,James,Rainwater,male,"Council, ID",USA,North America,"Yonkers, NY",USA,North America
+406,382,David,Baltimore,male,"New York, NY",USA,North America,NA,NA,NA
+408,382,Howard M.,Temin,male,"Philadelphia, PA",USA,North America,"Madison, WI",USA,North America
+407,382,Renato,Dulbecco,male,Catanzaro,Italy,Europe,"La Jolla, CA",USA,North America
+249,383,William,Lipscomb,male,"Cleveland, OH",USA,North America,"Cambridge, MA",USA,North America
+688,384,Milton,Friedman,male,"Brooklyn, NY",USA,North America,"San Francisco, CA",USA,North America
+652,385,Saul,Bellow,male,Montreal,Canada,North America,"Brookline, MA",USA,North America
+535,386,Betty,Williams,female,Belfast,Northern Ireland,Europe,Belfast,Northern Ireland,Europe
+536,386,Mairead,Corrigan,female,Belfast,Northern Ireland,Europe,NA,NA,NA
+105,387,Burton,Richter,male,"Brooklyn, NY",USA,North America,"Stanford, CA",USA,North America
+106,387,Samuel C.C.,Ting,male,"Ann Arbor, MI",USA,North America,NA,NA,NA
+409,388,Baruch S.,Blumberg,male,"New York, NY",USA,North America,"Moffett Field, CA",USA,North America
+410,388,D. Carleton,Gajdusek,male,"Yonkers, NY",USA,North America,Tromsø,Norway,Europe
+250,389,Ilya,Prigogine,male,Moscow,Russia,Europe,Brussels,Belgium,Europe
+689,390,Bertil,Ohlin,male,Klippan,Sweden,Europe,Vålådalen,Sweden,Europe
+690,390,James E.,Meade,male,Swanage,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+653,391,Vicente,Aleixandre,male,Sevilla,Spain,Europe,Madrid,Spain,Europe
+109,393,John H.,Van Vleck,male,"Middletown, CT",USA,North America,"Cambridge, MA",USA,North America
+107,393,Philip W.,Anderson,male,"Indianapolis, IN",USA,North America,"Princeton, NJ",USA,North America
+108,393,Sir Nevill F.,Mott,male,Leeds,United Kingdom,Europe,Milton Keynes,United Kingdom,Europe
+412,394,Andrew V.,Schally,male,Wilno,Poland,Europe,NA,NA,NA
+411,394,Roger,Guillemin,male,Dijon,France,Europe,"Del Mar, CA",USA,North America
+413,394,Rosalyn,Yalow,female,"New York, NY",USA,North America,"New York, NY",USA,North America
+251,395,Peter,Mitchell,male,Mitcham,United Kingdom,Europe,Bodmin,United Kingdom,Europe
+691,396,Herbert,Simon,male,"Milwaukee, WI",USA,North America,"Pittsburgh, PA",USA,North America
+654,397,Isaac Bashevis,Singer,male,Leoncin,Russian Empire,Europe,"Surfside, FL",USA,North America
+538,398,Anwar,al-Sadat,male,Mit Abu al-Kawm,Egypt,Africa,Cairo,Egypt,Africa
+539,398,Menachem,Begin,male,Brest Litovsk,Russian Empire,Europe,Tel Aviv,Israel,Asia
+111,399,Arno,Penzias,male,Munich,Germany,Europe,"San Francisco, CA",USA,North America
+110,399,Pyotr,Kapitsa,male,Kronshtadt,Russian Empire,Europe,Moscow,USSR,Europe
+112,399,Robert Woodrow,Wilson,male,"Houston, TX",USA,North America,NA,NA,NA
+415,400,Daniel,Nathans,male,"Wilmington, DE",USA,North America,"Baltimore, MD",USA,North America
+416,400,Hamilton O.,Smith,male,"New York, NY",USA,North America,NA,NA,NA
+414,400,Werner,Arber,male,Gränichen,Switzerland,Europe,NA,NA,NA
+253,401,Georg,Wittig,male,Berlin,Germany,Europe,Heidelberg,West Germany,Europe
+252,401,Herbert C.,Brown,male,London,United Kingdom,Europe,"Lafayette, IN",USA,North America
+693,402,Sir Arthur,Lewis,male,Castries,British West Indies,North America,Bridgetown,Barbados,North America
+692,402,Theodore W.,Schultz,male,"Arlington, SD",USA,North America,"Evanston, IL",USA,North America
+655,403,Odysseus,Elytis,male,Iráklion,Crete,Europe,Athens,Greece,Europe
+540,404,Anjezë Gonxhe,Bojaxhiu,female,Uskup,Ottoman Empire,Europe,Calcutta,India,Asia
+114,405,Abdus,Salam,male,Jhang Maghiāna,India,Asia,Oxford,United Kingdom,Europe
+113,405,Sheldon,Glashow,male,"New York, NY",USA,North America,NA,NA,NA
+115,405,Steven,Weinberg,male,"New York, NY",USA,North America,"Austin, TX",USA,North America
+417,406,Allan M.,Cormack,male,Johannesburg,South Africa,Africa,"Winchester, MA",USA,North America
+418,406,Godfrey N.,Hounsfield,male,Newark,United Kingdom,Europe,Kingston upon Thames,United Kingdom,Europe
+222,407,Frederick,Sanger,male,Rendcombe,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+254,407,Paul,Berg,male,"New York, NY",USA,North America,"Stanford, CA",USA,North America
+255,407,Walter,Gilbert,male,"Boston, MA",USA,North America,NA,NA,NA
+694,408,Lawrence R.,Klein,male,"Omaha, NE",USA,North America,"Gladwyne, PA",USA,North America
+657,409,Czesław,Miłosz,male,Śeteniai,Russian Empire,Europe,Kraków,Poland,Europe
+541,410,Adolfo,Pérez Esquivel,male,Buenos Aires,Argentina,South America,NA,NA,NA
+116,411,James,Cronin,male,"Chicago, IL",USA,North America,"St. Paul, MN",USA,North America
+117,411,Val,Fitch,male,"Merriman, NE",USA,North America,"Princeton, NJ",USA,North America
+419,412,Baruj,Benacerraf,male,Caracas,Venezuela,South America,"Boston, MA",USA,North America
+421,412,George D.,Snell,male,"Bradford, MA",USA,North America,"Bar Harbor, ME",USA,North America
+420,412,Jean,Dausset,male,Toulouse,France,Europe,"Palma, Majorca",Spain,Europe
+257,413,Kenichi,Fukui,male,Nara,Japan,Asia,Kyoto,Japan,Asia
+258,413,Roald,Hoffmann,male,Zloczov,Poland,Europe,NA,NA,NA
+695,414,James,Tobin,male,"Champaign, IL",USA,North America,"New Haven, CT",USA,North America
+658,415,Elias,Canetti,male,Ruse,Bulgaria,Europe,Zurich,Switzerland,Europe
+119,417,Arthur L.,Schawlow,male,"Mount Vernon, NY",USA,North America,"Palo Alto, CA",USA,North America
+120,417,Kai M.,Siegbahn,male,Lund,Sweden,Europe,Ängelholm,Sweden,Europe
+118,417,Nicolaas,Bloembergen,male,Dordrecht,the Netherlands,Europe,"Tucson, AZ",USA,North America
+423,418,David H.,Hubel,male,"Windsor, ON",Canada,North America,"Lincoln, MA",USA,North America
+422,418,Roger W.,Sperry,male,"Hartford, CT",USA,North America,"Pasadena, CA",USA,North America
+424,418,Torsten N.,Wiesel,male,Uppsala,Sweden,Europe,NA,NA,NA
+259,419,Aaron,Klug,male,Zelvas,Lithuania,Europe,NA,NA,NA
+696,420,George J.,Stigler,male,"Renton, WA",USA,North America,"Chicago, IL",USA,North America
+659,421,Gabriel,García Márquez,male,Aracataca,Colombia,South America,Mexico City,Mexico,North America
+544,422,Alfonso,García Robles,male,Zamora,Mexico,North America,Mexico City,Mexico,North America
+543,422,Alva,Myrdal,female,Uppsala,Sweden,Europe,Stockholm,Sweden,Europe
+121,423,Kenneth G.,Wilson,male,"Waltham, MA",USA,North America,"Saco, ME",USA,North America
+426,424,Bengt I.,Samuelsson,male,Halmstad,Sweden,Europe,Mölle,Sweden,Europe
+427,424,John R.,Vane,male,Tardebigg,United Kingdom,Europe,Farnborough,United Kingdom,Europe
+425,424,Sune K.,Bergström,male,Stockholm,Sweden,Europe,Stockholm,Sweden,Europe
+260,425,Henry,Taube,male,Neudorf,Canada,North America,"Stanford, CA",USA,North America
+697,426,Gerard,Debreu,male,Calais,France,Europe,Paris,France,Europe
+660,427,William,Golding,male,Newquay,United Kingdom,Europe,Perranarworthal,United Kingdom,Europe
+545,428,Lech,Wałęsa,male,Popowo,Poland,Europe,NA,NA,NA
+122,429,Subrahmanyan,Chandrasekhar,male,Lahore,India,Asia,"Chicago, IL",USA,North America
+123,429,William A.,Fowler,male,"Pittsburgh, PA",USA,North America,"Pasadena, CA",USA,North America
+428,430,Barbara,McClintock,female,"Hartford, CT",USA,North America,"Huntington, NY",USA,North America
+261,431,Bruce,Merrifield,male,"Fort Worth, TX",USA,North America,"Cresskill, NJ",USA,North America
+698,432,Richard,Stone,male,London,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+661,433,Jaroslav,Seifert,male,Prague,Austria-Hungary,Europe,Prague,Czechoslovakia,Europe
+546,434,Desmond,Tutu,male,Klerksdorp,South Africa,Africa,Cape Town,South Africa,Africa
+124,435,Carlo,Rubbia,male,Gorizia,Italy,Europe,NA,NA,NA
+125,435,Simon,van der Meer,male,the Hague,the Netherlands,Europe,Geneva,Switzerland,Europe
+431,436,César,Milstein,male,Bahia Blanca,Argentina,South America,Cambridge,United Kingdom,Europe
+430,436,Georges J.F.,Köhler,male,Munich,Germany,Europe,Freiburg im Breisgau,Germany,Europe
+429,436,Niels K.,Jerne,male,London,United Kingdom,Europe,Castillon-du-Gard,France,Europe
+262,437,Herbert A.,Hauptman,male,"New York, NY",USA,North America,"Buffalo, NY",USA,North America
+263,437,Jerome,Karle,male,"New York, NY",USA,North America,"Annandale, VA",USA,North America
+699,438,Franco,Modigliani,male,Rome,Italy,Europe,"Cambridge, MA",USA,North America
+662,439,Claude,Simon,male,Tananarive,Madagascar,Africa,Paris,France,Europe
+126,441,Klaus,von Klitzing,male,Schroda,German-occupied Poland,Europe,NA,NA,NA
+433,442,Joseph L.,Goldstein,male,"Sumter, SC",USA,North America,NA,NA,NA
+432,442,Michael S.,Brown,male,"New York, NY",USA,North America,NA,NA,NA
+264,443,Dudley R.,Herschbach,male,"San José, CA",USA,North America,NA,NA,NA
+266,443,John C.,Polanyi,male,Berlin,Germany,Europe,NA,NA,NA
+265,443,Yuan T.,Lee,male,Hsinchu,Taiwan,Asia,NA,NA,NA
+700,444,James M.,Buchanan Jr.,male,"Murfreesboro, TN",USA,North America,"Blacksburg, VA",USA,North America
+663,445,Wole,Soyinka,male,Abeokuta,Nigeria,Africa,NA,NA,NA
+548,446,Elie,Wiesel,male,Sighet,Romania,Europe,"New York, NY",USA,North America
+127,447,Ernst,Ruska,male,Heidelberg,Germany,Europe,West Berlin,Germany,Europe
+128,447,Gerd,Binnig,male,Frankfurt-on-the-Main,West Germany,Europe,NA,NA,NA
+129,447,Heinrich,Rohrer,male,Buchs,Switzerland,Europe,Wollerau,Switzerland,Europe
+435,448,Rita,Levi-Montalcini,female,Turin,Italy,Europe,Rome,Italy,Europe
+434,448,Stanley,Cohen,male,"Brooklyn, NY",USA,North America,"Nashville, TN",USA,North America
+269,449,Charles J.,Pedersen,male,Pusan,Korea,Asia,"Salem, NJ",USA,North America
+267,449,Donald J.,Cram,male,"Chester, VT",USA,North America,"Palm Desert, CA",USA,North America
+268,449,Jean-Marie,Lehn,male,Rosheim,France,Europe,NA,NA,NA
+701,450,Robert M.,Solow,male,"Brooklyn, NY",USA,North America,"Lexington, MA",USA,North America
+664,451,Joseph,Brodsky,male,Leningrad,USSR,Europe,"New York, NY",USA,North America
+549,452,Oscar,Arias Sánchez,male,Heredia,Costa Rica,North America,NA,NA,NA
+130,453,J. Georg,Bednorz,male,Neuenkirchen,West Germany,Europe,NA,NA,NA
+131,453,K. Alex,Müller,male,Basel,Switzerland,Europe,Zurich,Switzerland,Europe
+436,454,Susumu,Tonegawa,male,Nagoya,Japan,Asia,NA,NA,NA
+272,455,Hartmut,Michel,male,Ludwigsburg,West Germany,Europe,NA,NA,NA
+270,455,Johann,Deisenhofer,male,Zusamaltheim,Germany,Europe,NA,NA,NA
+271,455,Robert,Huber,male,Munich,Germany,Europe,NA,NA,NA
+702,456,Maurice,Allais,male,Paris,France,Europe,Paris,France,Europe
+665,457,Naguib,Mahfouz,male,Cairo,Egypt,Africa,Cairo,Egypt,Africa
+134,459,Jack,Steinberger,male,Bad Kissingen,Germany,Europe,Geneva,Switzerland,Europe
+132,459,Leon M.,Lederman,male,"New York, NY",USA,North America,"Rexburg, ID",USA,North America
+133,459,Melvin,Schwartz,male,"New York, NY",USA,North America,"Twin Falls, ID",USA,North America
+439,460,George H.,Hitchings,male,"Hoquiam, WA",USA,North America,"Chapel Hill, NC",USA,North America
+438,460,Gertrude B.,Elion,female,"New York, NY",USA,North America,"Chapel Hill, NC",USA,North America
+437,460,Sir James W.,Black,male,Uddingston,Scotland,Europe,NA,NA,NA
+273,461,Sidney,Altman,male,Montreal,Canada,North America,"Rockleigh, NJ",USA,North America
+274,461,Thomas R.,Cech,male,"Chicago, IL",USA,North America,NA,NA,NA
+703,462,Trygve,Haavelmo,male,Skedsmo,Norway,Europe,Oslo,Norway,Europe
+666,463,Camilo José,Cela,male,Iria Flavia,Spain,Europe,Madrid,Spain,Europe
+551,464,Lhamo,Thondup,male,Taktser,Tibet,Asia,NA,NA,NA
+136,465,Hans G.,Dehmelt,male,Görlitz,Prussia,Europe,"Seattle, WA",USA,North America
+135,465,Norman F.,Ramsey,male,"Washington, D.C.",USA,North America,"Wayland, MA",USA,North America
+137,465,Wolfgang,Paul,male,Lorenzkirch,Germany,Europe,Bonn,Germany,Europe
+441,466,Harold E.,Varmus,male,"Oceanside, NY",USA,North America,NA,NA,NA
+440,466,J. Michael,Bishop,male,"York, PA",USA,North America,NA,NA,NA
+275,467,Elias James,Corey,male,"Methuen, MA",USA,North America,NA,NA,NA
+704,468,Harry M.,Markowitz,male,"Chicago, IL",USA,North America,"San Diego, CA",USA,North America
+705,468,Merton H.,Miller,male,"Boston, MA",USA,North America,"Chicago, IL",USA,North America
+706,468,William F.,Sharpe,male,"Boston, MA",USA,North America,NA,NA,NA
+667,469,Octavio,Paz,male,Mexico City,Mexico,North America,Mexico City,Mexico,North America
+552,470,Mikhail,Gorbachev,male,Privolnoye,USSR,Europe,Moscow,Russia,Europe
+139,471,Henry W.,Kendall,male,"Boston, MA",USA,North America,"Wakulla Springs State Park, FL",USA,North America
+138,471,Jerome I.,Friedman,male,"Chicago, IL",USA,North America,NA,NA,NA
+140,471,Richard E.,Taylor,male,"Medicine Hat, Alberta",Canada,North America,"Stanford, CA",USA,North America
+443,472,E. Donnall,Thomas,male,"Mart, TX",USA,North America,"Seattle, WA",USA,North America
+442,472,Joseph E.,Murray,male,"Milford, MA",USA,North America,"Boston, MA",USA,North America
+276,473,Richard R.,Ernst,male,Winterthur,Switzerland,Europe,Winterthur,Switzerland,Europe
+707,474,Ronald H.,Coase,male,Willesden,United Kingdom,Europe,"Chicago, IL",USA,North America
+668,475,Nadine,Gordimer,female,Springs,South Africa,Africa,Johannesburg,South Africa,Africa
+553,476,Aung San Suu Kyi,NA,female,Rangoon,Burma,Asia,NA,NA,NA
+141,477,Pierre-Gilles,de Gennes,male,Paris,France,Europe,Orsay,France,Europe
+445,478,Bert,Sakmann,male,Stuttgart,Germany,Europe,NA,NA,NA
+444,478,Erwin,Neher,male,Landsberg,Germany,Europe,NA,NA,NA
+277,479,Rudolph A.,Marcus,male,Montreal,Canada,North America,NA,NA,NA
+708,480,Gary,Becker,male,"Pottsville, PA",USA,North America,"Chicago, IL",USA,North America
+669,481,Derek,Walcott,male,Castries,Saint Lucia,North America,Gros-Islet,Saint Lucia,North America
+554,482,Rigoberta,Menchú Tum,female,Aldea Chimel,Guatemala,North America,NA,NA,NA
+142,483,Georges,Charpak,male,Dabrovica,Poland,Europe,Paris,France,Europe
+446,484,Edmond H.,Fischer,male,Shanghai,China,Asia,"Seattle, WA",USA,North America
+447,484,Edwin G.,Krebs,male,"Lansing, IA",USA,North America,"Seattle, WA",USA,North America
+278,485,Kary B.,Mullis,male,"Lenoir, NC",USA,North America,"Newport Beach, CA",USA,North America
+279,485,Michael,Smith,male,Blackpool,United Kingdom,Europe,Vancouver,Canada,North America
+710,486,Douglass C.,North,male,"Cambridge, MA",USA,North America,"Benzonia, MI",USA,North America
+709,486,Robert W.,Fogel,male,"New York, NY",USA,North America,"Oak Lawn, IL",USA,North America
+670,487,Toni,Morrison,female,"Lorain, OH",USA,North America,"New York, NY",USA,North America
+556,488,F.W.,de Klerk,male,Johannesburg,South Africa,Africa,Cape Town,South Africa,Africa
+555,488,Nelson,Mandela,male,Mvezo,South Africa,Africa,Johannesburg,South Africa,Africa
+144,489,Joseph H.,Taylor Jr.,male,"Philadelphia, PA",USA,North America,NA,NA,NA
+143,489,Russell A.,Hulse,male,"New York, NY",USA,North America,NA,NA,NA
+449,490,Phillip A.,Sharp,male,"Falmouth, KY",USA,North America,NA,NA,NA
+448,490,Richard J.,Roberts,male,Derby,United Kingdom,Europe,NA,NA,NA
+280,491,George A.,Olah,male,Budapest,Hungary,Europe,"Los Angeles, CA",USA,North America
+711,492,John C.,Harsanyi,male,Budapest,Hungary,Europe,"Berkeley, CA",USA,North America
+712,492,John F.,Nash Jr.,male,"Bluefield, WV",USA,North America,"New Jersey, NJ",USA,North America
+713,492,Reinhard,Selten,male,Breslau,Germany,Europe,Poznan,Poland,Europe
+671,493,Kenzaburo,Oe,male,Uchiko,Japan,Asia,Tokyo,Japan,Asia
+558,494,Shimon,Peres,male,Vishneva,Poland,Europe,Tel Aviv,Israel,Asia
+557,494,Yasser,Arafat,male,Cairo,Egypt,Africa,Paris,France,Europe
+559,494,Yitzhak,Rabin,male,Jerusalem,British Mandate of Palestine,Asia,Tel Aviv,Israel,Asia
+145,495,Bertram N.,Brockhouse,male,"Lethbridge, Alberta",Canada,North America,"Hamilton, Ontario",Canada,North America
+146,495,Clifford G.,Shull,male,"Pittsburgh, PA",USA,North America,"Medford, MA",USA,North America
+450,496,Alfred G.,Gilman,male,"New Haven, CT",USA,North America,"Dallas, TX",USA,North America
+451,496,Martin,Rodbell,male,"Baltimore, MD",USA,North America,"Chapel Hill, NC",USA,North America
+283,497,F. Sherwood,Rowland,male,"Delaware, OH",USA,North America,"Corona del Mar, CA",USA,North America
+282,497,Mario J.,Molina,male,Mexico City,Mexico,North America,Mexico City,Mexico,North America
+281,497,Paul J.,Crutzen,male,Amsterdam,the Netherlands,Europe,Mainz,Germany,Europe
+714,498,Robert E.,Lucas Jr.,male,"Yakima, WA",USA,North America,"Chicago, IL",USA,North America
+672,499,Seamus,Heaney,male,Casteldàwson,Northern Ireland,Europe,Dublin,Ireland,Europe
+560,500,Joseph,Rotblat,male,Warsaw,Russian Empire,Europe,London,United Kingdom,Europe
+148,501,Frederick,Reines,male,"Paterson, NJ",USA,North America,"Orange, CA",USA,North America
+147,501,Martin L.,Perl,male,"New York, NY",USA,North America,"Palo Alto, CA",USA,North America
+453,502,Christiane,Nüsslein-Volhard,female,Magdeburg,Germany,Europe,NA,NA,NA
+452,502,Edward B.,Lewis,male,"Wilkes-Barre, PA",USA,North America,"Pasadena, CA",USA,North America
+454,502,Eric F.,Wieschaus,male,"South Bend, IN",USA,North America,NA,NA,NA
+286,503,Richard E.,Smalley,male,"Akron, OH",USA,North America,"Houston, TX",USA,North America
+284,503,Robert F.,Curl Jr.,male,"Alice, TX",USA,North America,"Houston, TX",USA,North America
+285,503,Sir Harold,Kroto,male,"Wisbech, Cambridgeshire ",United Kingdom,Europe,"Lewes, East Sussex",United Kingdom,Europe
+715,504,James A.,Mirrlees,male,Minnigaff,Scotland,Europe,Cambridge,United Kingdom,Europe
+716,504,William,Vickrey,male,"Victoria, BC",Canada,North America,"Harrison, NY",USA,North America
+673,505,Wisława,Szymborska,female,Bnin,Poland,Europe,Kraków,Poland,Europe
+562,506,Carlos Filipe Ximenes,Belo,male,Wailacama,East Timor,Oceania,NA,NA,NA
+563,506,José,Ramos-Horta,male,Dili,East Timor,Oceania,NA,NA,NA
+149,507,David M.,Lee,male,"Rye, NY",USA,North America,NA,NA,NA
+150,507,Douglas D.,Osheroff,male,"Aberdeen, WA",USA,North America,NA,NA,NA
+151,507,Robert C.,Richardson,male,"Washington, D.C.",USA,North America,"Ithaca, NY",USA,North America
+455,508,Peter C.,Doherty,male,Brisbane,Australia,Oceania,NA,NA,NA
+456,508,Rolf M.,Zinkernagel,male,Basel,Switzerland,Europe,NA,NA,NA
+289,509,Jens C.,Skou,male,Lemvig,Denmark,Europe,Aarhus,Denmark,Europe
+288,509,John E.,Walker,male,Halifax,United Kingdom,Europe,NA,NA,NA
+287,509,Paul D.,Boyer,male,"Provo, UT",USA,North America,"Los Angeles, CA",USA,North America
+718,510,Myron,Scholes,male,"Timmins, ON",Canada,North America,NA,NA,NA
+717,510,Robert C.,Merton,male,"New York, NY",USA,North America,NA,NA,NA
+674,511,Dario,Fo,male,Leggiuno-Sangiano,Italy,Europe,Milan,Italy,Europe
+565,512,Jody,Williams,female,"Rutland, VT",USA,North America,NA,NA,NA
+153,513,Claude,Cohen-Tannoudji,male,Constantine,French Algeria,Africa,NA,NA,NA
+152,513,Steven,Chu,male,"St. Louis, MO",USA,North America,NA,NA,NA
+154,513,William D.,Phillips,male,"Wilkes-Barre, PA",USA,North America,NA,NA,NA
+457,514,Stanley B.,Prusiner,male,"Des Moines, IA",USA,North America,NA,NA,NA
+291,515,John,Pople,male,Burnham-on-Sea,United Kingdom,Europe,"Chicago, IL",USA,North America
+290,515,Walter,Kohn,male,Vienna,Austria,Europe,"Santa Barbara, CA",USA,North America
+719,516,Amartya,Sen,male,Santiniketan,India,Asia,NA,NA,NA
+675,517,José,Saramago,male,Azinhaga,Portugal,Europe,Lanzarote,Spain,Europe
+567,518,David,Trimble,male,Belfast,Northern Ireland,Europe,Belfast,Northern Ireland,Europe
+566,518,John,Hume,male,Londonderry,Northern Ireland,Europe,Londonderry,Northern Ireland,Europe
+157,519,Daniel C.,Tsui,male,Henan,China,Asia,NA,NA,NA
+156,519,Horst L.,Störmer,male,Frankfurt-on-the-Main,West Germany,Europe,NA,NA,NA
+155,519,Robert B.,Laughlin,male,"Visalia, CA",USA,North America,NA,NA,NA
+460,520,Ferid,Murad,male,"Whiting, IN",USA,North America,"Menlo Park, CL",USA,North America
+459,520,Louis J.,Ignarro,male,"Brooklyn, NY",USA,North America,NA,NA,NA
+458,520,Robert F.,Furchgott,male,"Charleston, SC",USA,North America,"Seattle, WA",USA,North America
+292,521,Ahmed,Zewail,male,Damanhur,Egypt,Africa,"Pasadena, CA",USA,North America
+720,522,Robert,Mundell,male,"Kingston, ON",Canada,North America,Siena,Italy,Europe
+676,523,Günter,Grass,male,Danzig,Free City of Danzig,Europe,Lübeck,Germany,Europe
+158,525,Gerardus,'t Hooft,male,Den Helder,the Netherlands,Europe,NA,NA,NA
+159,525,Martinus J.G.,Veltman,male,Waalwijk,the Netherlands,Europe,Bilthoven,the Netherlands,Europe
+461,526,Günter,Blobel,male,Waltersdorf,Germany,Europe,"New York, NY",USA,North America
+729,527,Alan,Heeger,male,"Sioux City, IA",USA,North America,NA,NA,NA
+730,527,Alan,MacDiarmid,male,Masterton,New Zealand,Oceania,"Drexel Hill, PA",USA,North America
+731,527,Hideki,Shirakawa,male,Tokyo,Japan,Asia,NA,NA,NA
+733,528,Daniel L.,McFadden,male,"Raleigh, NC",USA,North America,NA,NA,NA
+732,528,James J.,Heckman,male,"Chicago, IL",USA,North America,NA,NA,NA
+734,529,Xingjian,Gao,male,Ganzhou,China,Asia,NA,NA,NA
+725,530,Kim,Dae-jung,male,Mokpo,Korea,Asia,NA,NA,NA
+727,531,Herbert,Kroemer,male,Weimar,Germany,Europe,NA,NA,NA
+728,531,Jack,Kilby,male,"Jefferson City, MO",USA,North America,"Dallas, TX",USA,North America
+726,531,Zhores,Alferov,male,"Vitebsk, Belorussia",USSR,Europe,St. Petersburg,Russia,Europe
+722,532,Arvid,Carlsson,male,Uppsala,Sweden,Europe,Gothenburg,Sweden,Europe
+724,532,Eric,Kandel,male,Vienna,Austria,Europe,NA,NA,NA
+723,532,Paul,Greengard,male,"New York, NY",USA,North America,"New York, NY",USA,North America
+743,533,Barry,Sharpless,male,"Philadelphia, PA",USA,North America,NA,NA,NA
+742,533,Ryoji,Noyori,male,Kobe,Japan,Asia,NA,NA,NA
+741,533,William,Knowles,male,"Taunton, MA",USA,North America,"Chesterfield, MO",USA,North America
+745,534,A. Michael,Spence,male,"Montclair, NJ",USA,North America,NA,NA,NA
+744,534,George A.,Akerlof,male,"New Haven, CT",USA,North America,NA,NA,NA
+746,534,Joseph E.,Stiglitz,male,"Gary, IN",USA,North America,NA,NA,NA
+747,535,V. S.,Naipaul,male,Chaguanas,Trinidad and Tobago,North America,London,United Kingdom,Europe
+749,536,Kofi,Annan,male,Kumasi,Gold Coast,Africa,Bern,Switzerland,Europe
+740,537,Carl,Wieman,male,"Corvallis, OR",USA,North America,NA,NA,NA
+738,537,Eric,Cornell,male,"Palo Alto, CA",USA,North America,NA,NA,NA
+739,537,Wolfgang,Ketterle,male,Heidelberg,West Germany,Europe,NA,NA,NA
+735,538,Leland,Hartwell,male,"Los Angeles, CA",USA,North America,NA,NA,NA
+737,538,Sir Paul,Nurse,male,Norwich,United Kingdom,Europe,NA,NA,NA
+736,538,Tim,Hunt,male,Neston,United Kingdom,Europe,NA,NA,NA
+756,539,John B.,Fenn,male,"New York, NY",USA,North America,"Richmond, VA",USA,North America
+757,539,Koichi,Tanaka,male,Toyama City,Japan,Asia,NA,NA,NA
+758,539,Kurt,Wüthrich,male,Aarberg,Switzerland,Europe,NA,NA,NA
+759,540,Daniel,Kahneman,male,Tel Aviv,British Mandate of Palestine,Asia,NA,NA,NA
+760,540,Vernon L.,Smith,male,"Wichita, KS",USA,North America,NA,NA,NA
+761,541,Imre,Kertész,male,Budapest,Hungary,Europe,Budapest,Hungary,Europe
+762,542,Jimmy,Carter,male,"Plains, GA",USA,North America,NA,NA,NA
+754,543,Masatoshi,Koshiba,male,Toyohashi,Japan,Asia,Tokyo,Japan,Asia
+753,543,Raymond,Davis Jr.,male,"Washington, D.C.",USA,North America,"Blue Point, NY",USA,North America
+755,543,Riccardo,Giacconi,male,Genoa,Italy,Europe,"La Jolla, CA",USA,North America
+751,544,H. Robert,Horvitz,male,"Chicago, IL",USA,North America,NA,NA,NA
+752,544,John E.,Sulston,male,Cambridge,United Kingdom,Europe,"Stapleford, Cambridgeshire",United Kingdom,Europe
+750,544,Sydney,Brenner,male,Germiston,South Africa,Africa,NA,Singapore,Asia
+769,545,Peter,Agre,male,"Northfield, MN",USA,North America,NA,NA,NA
+770,545,Roderick,MacKinnon,male,"Burlington, MA",USA,North America,NA,NA,NA
+772,546,Clive W.J.,Granger,male,Swansea,United Kingdom,Europe,"San Diego, CA",USA,North America
+771,546,Robert F.,Engle III,male,"Syracuse, NY",USA,North America,NA,NA,NA
+763,547,J. M.,Coetzee,male,Cape Town,South Africa,Africa,NA,NA,NA
+773,548,Shirin,Ebadi,female,Hamadan,Iran,Asia,NA,NA,NA
+766,549,Alexei,Abrikosov,male,Moscow,USSR,Europe,NA,NA,NA
+768,549,Anthony J.,Leggett,male,London,United Kingdom,Europe,NA,NA,NA
+767,549,Vitaly L.,Ginzburg,male,Moscow,Russia,Europe,NA,NA,NA
+764,550,Paul C.,Lauterbur,male,"Sidney, OH",USA,North America,"Urbana, IL",USA,North America
+765,550,Sir Peter,Mansfield,male,London,United Kingdom,Europe,NA,NA,NA
+779,551,Aaron,Ciechanover,male,Haifa,British Protectorate of Palestine,Asia,NA,NA,NA
+780,551,Avram,Hershko,male,Karcag,Hungary,Europe,NA,NA,NA
+781,551,Irwin,Rose,male,"Brooklyn, NY",USA,North America,"Deerfield, MA",USA,North America
+787,552,Edward C.,Prescott,male,"Glens Falls, NY",USA,North America,"Paradise Valley, AZ",USA,North America
+786,552,Finn E.,Kydland,male,Gjesdal,Norway,Europe,NA,NA,NA
+782,553,Elfriede,Jelinek,female,Mürzzuschlag,Austria,Europe,NA,NA,NA
+783,554,Wangari,Maathai,female,Nyeri,Kenya,Africa,Nairobi,Kenya,Africa
+776,555,David J.,Gross,male,"Washington, D.C.",USA,North America,NA,NA,NA
+778,555,Frank,Wilczek,male,"New York, NY",USA,North America,NA,NA,NA
+777,555,H. David,Politzer,male,"New York, NY",USA,North America,NA,NA,NA
+775,556,Linda B.,Buck,female,"Seattle, WA",USA,North America,NA,NA,NA
+774,556,Richard,Axel,male,"New York, NY",USA,North America,NA,NA,NA
+796,557,Richard R.,Schrock,male,"Berne, IN",USA,North America,NA,NA,NA
+795,557,Robert H.,Grubbs,male,"Possum Trot, KY",USA,North America,"Duarte, CA",USA,North America
+794,557,Yves,Chauvin,male,Menin,Belgium,Europe,Tours,France,Europe
+799,558,Robert J.,Aumann,male,Frankfurt-on-the-Main,Germany,Europe,NA,NA,NA
+800,558,Thomas C.,Schelling,male,"Oakland, CA",USA,North America,"Bethesda, MD",USA,North America
+801,559,Harold,Pinter,male,London,United Kingdom,Europe,London,United Kingdom,Europe
+798,560,Mohamed,ElBaradei,male,Cairo,Egypt,Africa,NA,NA,NA
+792,561,John L.,Hall,male,"Denver, CO",USA,North America,NA,NA,NA
+791,561,Roy J.,Glauber,male,"New York, NY",USA,North America,"Newton, MA",USA,North America
+793,561,Theodor W.,Hänsch,male,Heidelberg,Germany,Europe,NA,NA,NA
+789,562,Barry J.,Marshall,male,Kalgoorlie,Australia,Oceania,NA,NA,NA
+790,562,J. Robin,Warren,male,Adelaide,Australia,Oceania,Perth,Australia,Oceania
+806,563,Roger D.,Kornberg,male,"St. Louis, MO",USA,North America,NA,NA,NA
+807,564,Edmund S.,Phelps,male,"Evanston, IL",USA,North America,NA,NA,NA
+808,565,Orhan,Pamuk,male,Istanbul,Turkey,Asia,NA,NA,NA
+809,566,Muhammad,Yunus,male,Chittagong,British India,Asia,NA,NA,NA
+805,567,George F.,Smoot,male,"Yukon, FL",USA,North America,NA,NA,NA
+804,567,John C.,Mather,male,"Roanoke, VA",USA,North America,NA,NA,NA
+802,568,Andrew Z.,Fire,male,"Stanford, CA",USA,North America,NA,NA,NA
+803,568,Craig C.,Mello,male,"New Haven, CT",USA,North America,NA,NA,NA
+816,569,Gerhard,Ertl,male,Bad Cannstatt,Germany,Europe,NA,NA,NA
+821,570,Eric S.,Maskin,male,"New York, NY",USA,North America,NA,NA,NA
+820,570,Leonid,Hurwicz,male,Moscow,Russia,Europe,"Minneapolis, MN",USA,North America
+822,570,Roger B.,Myerson,male,"Boston, MA",USA,North America,NA,NA,NA
+817,571,Doris,Lessing,female,Kermanshah,Persia,Asia,London,United Kingdom,Europe
+819,572,Al,Gore,male,"Washington, D.C.",USA,North America,NA,NA,NA
+814,573,Albert,Fert,male,Carcassonne,France,Europe,NA,NA,NA
+815,573,Peter,Grünberg,male,Plzen,Czechoslovakia,Europe,Jülich,Germany,Europe
+811,574,Mario R.,Capecchi,male,Verona,Italy,Europe,NA,NA,NA
+813,574,Oliver,Smithies,male,Halifax,United Kingdom,Europe,"Chapel Hill, NC",USA,North America
+812,574,Sir Martin J.,Evans,male,Stroud,United Kingdom,Europe,NA,NA,NA
+830,575,Martin,Chalfie,male,"Chicago, IL",USA,North America,NA,NA,NA
+829,575,Osamu,Shimomura,male,Kyoto,Japan,Asia,Nagasaki,Japan,Asia
+831,575,Roger Y.,Tsien,male,"New York, NY",USA,North America,"Eugene, OR",USA,North America
+834,576,Paul,Krugman,male,"New York, NY",USA,North America,NA,NA,NA
+832,577,Jean-Marie Gustave,Le Clézio,male,Nice,France,Europe,NA,NA,NA
+833,578,Martti,Ahtisaari,male,Viipuri,Finland,Europe,Helsinki,Finland,Europe
+827,579,Makoto,Kobayashi,male,Nagoya,Japan,Asia,NA,NA,NA
+828,579,Toshihide,Maskawa,male,Nagoya,Japan,Asia,Kyoto,Japan,Asia
+826,579,Yoichiro,Nambu,male,Tokyo,Japan,Asia,Osaka,Japan,Asia
+824,580,Françoise,Barré-Sinoussi,female,Paris,France,Europe,NA,NA,NA
+823,580,Harald,zur Hausen,male,Gelsenkirchen,Germany,Europe,Heidelberg,Germany,Europe
+825,580,Luc,Montagnier,male,Chabris,France,Europe,Paris,France,Europe
+843,581,Ada E.,Yonath,female,Jerusalem,British Mandate of Palestine,Asia,NA,NA,NA
+842,581,Thomas A.,Steitz,male,"Milwaukee, WI",USA,North America,"Branford, CT",USA,North America
+841,581,Venkatraman,Ramakrishnan,male,"Chidambaram, Tamil Nadu",India,Asia,NA,NA,NA
+846,582,Elinor,Ostrom,female,"Los Angeles, CA",USA,North America,"Bloomington, IN",USA,North America
+847,582,Oliver E.,Williamson,male,"Superior, WI",USA,North America,NA,NA,NA
+844,583,Herta,Müller,female,"Nitzkydorf, Banat",Romania,Europe,NA,NA,NA
+845,584,Barack,Obama,male,"Honolulu, HI",USA,North America,NA,NA,NA
+838,585,Charles K.,Kao,male,Shanghai,China,Asia,Hong Kong,NA,NA
+840,585,George E.,Smith,male,"White Plains, NY",USA,North America,NA,NA,NA
+839,585,Willard S.,Boyle,male,"Amherst, NS",Canada,North America,"Truro, NS",Canada,North America
+836,586,Carol W.,Greider,female,"San Diego, CA",USA,North America,NA,NA,NA
+835,586,Elizabeth H.,Blackburn,female,"Hobart, Tasmania",Australia,Oceania,NA,NA,NA
+837,586,Jack W.,Szostak,male,London,United Kingdom,Europe,NA,NA,NA
+853,587,Akira,Suzuki,male,Mukawa,Japan,Asia,NA,NA,NA
+852,587,Ei-ichi,Negishi,male,Changchun,China,Asia,"Indianapolis, IN",USA,North America
+851,587,Richard F.,Heck,male,"Springfield, MA",USA,North America,Manila,Philippines,Asia
+858,588,Christopher A.,Pissarides,male,Nicosia,Cyprus,Europe,NA,NA,NA
+857,588,Dale T.,Mortensen,male,"Enterprise, OR",USA,North America,"Wilmette, IL",USA,North America
+856,588,Peter A.,Diamond,male,"New York, NY",USA,North America,NA,NA,NA
+854,589,Mario,Vargas Llosa,male,Arequipa,Peru,South America,NA,NA,NA
+855,590,Xiaobo,Liu,male,Changchun,China,Asia,Shenyang,China,Asia
+849,591,Andre,Geim,male,Sochi,Russia,Europe,NA,NA,NA
+850,591,Konstantin,Novoselov,male,Nizhny Tagil,Russia,Europe,NA,NA,NA
+848,592,Robert G.,Edwards,male,Batley,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+867,593,Dan,Shechtman,male,Tel Aviv,British Mandate of Palestine,Asia,NA,NA,NA
+873,594,Christopher A.,Sims,male,"Washington, D.C.",USA,North America,NA,NA,NA
+872,594,Thomas J.,Sargent,male,"Pasadena, CA",USA,North America,NA,NA,NA
+868,595,Tomas,Tranströmer,male,Stockholm,Sweden,Europe,Stockholm,Sweden,Europe
+869,596,Ellen,Johnson Sirleaf,female,Monrovia,Liberia,Africa,NA,NA,NA
+870,596,Leymah,Gbowee,female,Monrovia,Liberia,Africa,NA,NA,NA
+871,596,Tawakkol,Karman,female,Ta'izz,Yemen,Asia,NA,NA,NA
+866,597,Adam G.,Riess,male,"Washington, D.C.",USA,North America,NA,NA,NA
+865,597,Brian P.,Schmidt,male,"Missoula, MT",USA,North America,NA,NA,NA
+864,597,Saul,Perlmutter,male,"Champaign-Urbana, IL",USA,North America,NA,NA,NA
+861,598,Bruce A.,Beutler,male,"Chicago, IL",USA,North America,NA,NA,NA
+862,598,Jules A.,Hoffmann,male,Echternach,Luxembourg,Europe,NA,NA,NA
+863,598,Ralph M.,Steinman,male,Montreal,Canada,North America,"New York, NY",USA,North America
+879,599,Brian,Kobilka,male,"Little Falls, MN",USA,North America,NA,NA,NA
+878,599,Robert J.,Lefkowitz,male,"New York, NY",USA,North America,NA,NA,NA
+882,600,Alvin E.,Roth,male,"New York, NY",USA,North America,NA,NA,NA
+883,600,Lloyd S.,Shapley,male,"Cambridge, MA",USA,North America,"Tucson, AZ",USA,North America
+880,601,Mo,Yan,male,Gaomi,China,Asia,NA,NA,NA
+877,603,David J.,Wineland,male,"Milwaukee, WI",USA,North America,NA,NA,NA
+876,603,Serge,Haroche,male,Casablanca,Morocco,Africa,NA,NA,NA
+875,604,Shinya,Yamanaka,male,Osaka,Japan,Asia,NA,NA,NA
+874,604,Sir John B.,Gurdon,male,Dippenhall,United Kingdom,Europe,NA,NA,NA
+891,605,Arieh,Warshel,male,Kibbutz Sde-Nahum,British Mandate of Palestine,Asia,NA,NA,NA
+889,605,Martin,Karplus,male,Vienna,Austria,Europe,NA,NA,NA
+890,605,Michael,Levitt,male,Pretoria,South Africa,Africa,NA,NA,NA
+894,606,Eugene F.,Fama,male,"Boston, MA",USA,North America,NA,NA,NA
+895,606,Lars Peter,Hansen,male,"Urbana, IL",USA,North America,NA,NA,NA
+896,606,Robert J.,Shiller,male,"Detroit, MI",USA,North America,NA,NA,NA
+892,607,Alice,Munro,female,Wingham,Canada,North America,Port Hope,Canada,North America
+887,609,François,Englert,male,Etterbeek,Belgium,Europe,NA,NA,NA
+888,609,Peter,Higgs,male,Newcastle upon Tyne,United Kingdom,Europe,Edinburgh,Scotland,Europe
+884,610,James E.,Rothman,male,"Haverhill, MA",USA,North America,NA,NA,NA
+885,610,Randy W.,Schekman,male,"St. Paul, MN",USA,North America,NA,NA,NA
+886,610,Thomas C.,Südhof,male,Göttingen,Germany,Europe,NA,NA,NA
+909,611,Eric,Betzig,male,"Ann Arbor, MI",USA,North America,NA,NA,NA
+910,611,Stefan W.,Hell,male,Arad,Romania,Europe,NA,NA,NA
+911,611,William E.,Moerner,male,"Pleasanton, CA",USA,North America,NA,NA,NA
+915,612,Jean,Tirole,male,Troyes,France,Europe,NA,NA,NA
+912,613,Patrick,Modiano,male,Paris,France,Europe,NA,NA,NA
+913,614,Kailash,Satyarthi,male,Vidisha,India,Asia,NA,NA,NA
+914,614,Malala,Yousafzai,female,Mingora,Pakistan,Asia,NA,NA,NA
+907,615,Hiroshi,Amano,male,Hamamatsu,Japan,Asia,NA,NA,NA
+906,615,Isamu,Akasaki,male,Chiran,Japan,Asia,Nagoya,Japan,Asia
+908,615,Shuji,Nakamura,male,Ikata,Japan,Asia,NA,NA,NA
+905,616,Edvard I.,Moser,male,Ålesund,Norway,Europe,NA,NA,NA
+903,616,John,O'Keefe,male,"New York, NY",USA,North America,NA,NA,NA
+904,616,May-Britt,Moser,female,Fosnavåg,Norway,Europe,NA,NA,NA
+923,617,Aziz,Sancar,male,Savur,Turkey,Asia,NA,NA,NA
+922,617,Paul,Modrich,male,"Raton, NM",USA,North America,NA,NA,NA
+921,617,Tomas,Lindahl,male,Stockholm,Sweden,Europe,NA,NA,NA
+926,618,Angus,Deaton,male,Edinburgh,Scotland,Europe,NA,NA,NA
+924,619,Svetlana,Alexievich,female,Ivano-Frankivsk,Ukraine,Europe,NA,NA,NA
+920,621,Arthur B.,McDonald,male,"Sydney, Nova Scotia",Canada,North America,NA,NA,NA
+919,621,Takaaki,Kajita,male,Higashimatsuyama,Japan,Asia,NA,NA,NA
+917,622,Satoshi,Ōmura,male,Yamanashi Prefecture,Japan,Asia,NA,NA,NA
+918,622,Youyou,Tu,female,Zhejiang Ningbo,China,Asia,NA,NA,NA
+916,622,William C.,Campbell,male,Ramelton,Ireland,Europe,NA,NA,NA
+933,623,Bernard L.,Feringa,male,Barger-Compascuum,the Netherlands,Europe,NA,NA,NA
+931,623,Jean-Pierre,Sauvage,male,Paris,France,Europe,NA,NA,NA
+932,623,Sir J. Fraser,Stoddart,male,Edinburgh,United Kingdom,Europe,NA,NA,NA
+936,624,Bengt,Holmström,male,Helsinki,Finland,Europe,NA,NA,NA
+935,624,Oliver,Hart,male,London,United Kingdom,Europe,NA,NA,NA
+937,625,Bob,Dylan,male,"Duluth, MN",USA,North America,NA,NA,NA
+934,626,Juan Manuel,Santos,male,Bogotá,Colombia,South America,NA,NA,NA
+928,627,David J.,Thouless,male,Bearsden,United Kingdom,Europe,Cambridge,United Kingdom,Europe
+929,627,F. Duncan M.,Haldane,male,London,United Kingdom,Europe,NA,NA,NA
+930,627,J. Michael,Kosterlitz,male,Aberdeen,United Kingdom,Europe,NA,NA,NA
+927,628,Yoshinori,Ohsumi,male,Fukuoka,Japan,Asia,NA,NA,NA
+944,629,Jacques,Dubochet,male,Aigle,Switzerland,Europe,NA,NA,NA
+945,629,Joachim,Frank,male,Siegen,Germany,Europe,NA,NA,NA
+946,629,Richard,Henderson,male,Edinburgh,Scotland,Europe,NA,NA,NA
+949,630,Richard H.,Thaler,male,"East Orange, NJ",USA,North America,NA,NA,NA
+947,631,Kazuo,Ishiguro,male,Nagasaki,Japan,Asia,NA,NA,NA
+942,633,Barry C.,Barish,male,"Omaha, NE",USA,North America,NA,NA,NA
+943,633,Kip S.,Thorne,male,"Logan, UT",USA,North America,NA,NA,NA
+941,633,Rainer,Weiss,male,Berlin,Germany,Europe,NA,NA,NA
+938,634,Jeffrey C.,Hall,male,"New York, NY",USA,North America,NA,NA,NA
+939,634,Michael,Rosbash,male,"Kansas City, MO",USA,North America,NA,NA,NA
+940,634,Michael W.,Young,male,"Miami, FL",USA,North America,NA,NA,NA
+963,635,Frances H.,Arnold,female,"Pittsburgh, PA",USA,North America,NA,NA,NA
+964,635,George P.,Smith,male,"Norwalk, CT",USA,North America,NA,NA,NA
+965,635,Sir Gregory P.,Winter,male,Leicester,United Kingdom,Europe,NA,NA,NA
+969,636,Paul M.,Romer,male,"Denver, CO",USA,North America,NA,NA,NA
+968,636,William D.,Nordhaus,male,"Albuquerque, NM",USA,North America,NA,NA,NA
+979,637,Olga,Tokarczuk,female,Sulechów,Poland,Europe,NA,NA,NA
+966,638,Denis,Mukwege,male,Bukavu,Belgian Congo,Africa,NA,NA,NA
+967,638,Nadia,Murad,female,Kojo,Iraq,Asia,NA,NA,NA
+960,639,Arthur,Ashkin,male,"New York, NY",USA,North America,"Rumson, NJ",USA,North America
+962,639,Donna,Strickland,female,Guelph,Canada,North America,NA,NA,NA
+961,639,Gérard,Mourou,male,Albertville,France,Europe,NA,NA,NA
+958,640,James P.,Allison,male,"Alice, TX",USA,North America,NA,NA,NA
+959,640,Tasuku,Honjo,male,Kyoto,Japan,Asia,NA,NA,NA
+978,641,Akira,Yoshino,male,Suita,Japan,Asia,NA,NA,NA
+976,641,John,Goodenough,male,Jena,Germany,Europe,"Austin, TX",USA,North America
+977,641,M. Stanley,Whittingham,male,NA,United Kingdom,Europe,NA,NA,NA
+982,642,Abhijit,Banerjee,male,Mumbai,India,Asia,NA,NA,NA
+983,642,Esther,Duflo,female,Paris,France,Europe,NA,NA,NA
+984,642,Michael,Kremer,male,"New York, NY",USA,North America,NA,NA,NA
+980,643,Peter,Handke,male,Griffen,Austria,Europe,NA,NA,NA
+981,644,Abiy,Ahmed Ali,male,Beshasha,Ethiopia,Africa,NA,NA,NA
+975,645,Didier,Queloz,male,Geneva,Switzerland,Europe,NA,NA,NA
+973,645,James,Peebles,male,Winnipeg,Canada,North America,NA,NA,NA
+974,645,Michel,Mayor,male,Lausanne,Switzerland,Europe,NA,NA,NA
+972,646,Gregg,Semenza,male,"New York, NY",USA,North America,NA,NA,NA
+971,646,Peter,Ratcliffe,male,Lancashire,United Kingdom,Europe,NA,NA,NA
+970,646,William,Kaelin,male,"New York, NY",USA,North America,NA,NA,NA
+991,647,Emmanuelle,Charpentier,female,Juvisy-sur-Orge,France,Europe,NA,NA,NA
+992,647,Jennifer A.,Doudna,female,"Washington, D.C.",USA,North America,NA,NA,NA
+995,648,Paul,Milgrom,male,"Detroit, MI",USA,North America,NA,NA,NA
+996,648,Robert,Wilson,male,"Geneva, NE",USA,North America,NA,NA,NA
+993,649,Louise,Glück,female,"New York, NY",USA,North America,"Cambridge, MA",USA,North America
+990,651,Andrea,Ghez,female,"New York, NY",USA,North America,NA,NA,NA
+989,651,Reinhard,Genzel,male,Bad Homburg vor der Höhe,Germany,Europe,NA,NA,NA
+988,651,Roger,Penrose,male,Colchester,United Kingdom,Europe,NA,NA,NA
+987,652,Charles,Rice,male,"Sacramento, CA",USA,North America,NA,NA,NA
+985,652,Harvey,Alter,male,"New York, NY",USA,North America,NA,NA,NA
+986,652,Michael,Houghton,male,NA,United Kingdom,Europe,NA,NA,NA
+1002,653,Benjamin,List,male,Frankfurt-on-the-Main,Germany,Europe,NA,NA,NA
+1003,653,David,MacMillan,male,Bellshill,United Kingdom,Europe,NA,NA,NA
+1007,654,David,Card,male,Guelph,Canada,North America,NA,NA,NA
+1009,654,Guido,Imbens,male,Geldrop,the Netherlands,Europe,NA,NA,NA
+1008,654,Joshua,Angrist,male,"Columbus, OH",USA,North America,NA,NA,NA
+1004,655,Abdulrazak,Gurnah,male,NA,NA,NA,NA,NA,NA
+1006,656,Dmitry,Muratov,male,Kubyshev,USSR,Europe,NA,NA,NA
+1005,656,Maria,Ressa,female,Manila,Philippines,Asia,NA,NA,NA
+1001,657,Giorgio,Parisi,male,Rome,Italy,Europe,NA,NA,NA
+1000,657,Klaus,Hasselmann,male,Hamburg,Germany,Europe,NA,NA,NA
+999,657,Syukuro,Manabe,male,"Shingu, Ehime",Japan,Asia,NA,NA,NA
+998,658,Ardem,Patapoutian,male,Beirut,Lebanon,Asia,NA,NA,NA
+997,658,David,Julius,male,"New York, NY",USA,North America,NA,NA,NA
+1015,659,Carolyn,Bertozzi,female,"Boston, MA",USA,North America,NA,NA,NA
+743,659,Barry,Sharpless,male,"Philadelphia, PA",USA,North America,NA,NA,NA
+1016,659,Morten,Meldal,male,Copenhagen,Denmark,Europe,NA,NA,NA
+1021,660,Ben,Bernanke,male,"Augusta, GA",USA,North America,NA,NA,NA
+1022,660,Douglas,Diamond,male,"Chicago, IL",USA,North America,NA,NA,NA
+1023,660,Philip,Dybvig,male,"Gainesville, FL",USA,North America,NA,NA,NA
+1017,661,Annie,Ernaux,female,Lillebonne,France,Europe,NA,NA,NA
+1018,662,Ales,Bialiatski ,male,"Vyartsilya, Karelia",Russia,Europe,NA,NA,NA
+1012,663,Alain,Aspect,male,Agen,France,Europe,NA,NA,NA
+1014,663,Anton,Zeilinger,male,Ried im Innkreis,Austria,Europe,NA,NA,NA
+1013,663,John ,Clauser,male,"Pasadena, CA",USA,North America,NA,NA,NA
+1011,664,Svante,Pääbo,male,Stockholm,Sweden,Europe,NA,NA,NA
+1031,665,Aleksey,Yekimov,male,Leningrad,USSR,Europe,NA,NA,NA
+1030,665,Louis,Brus,male,"Cleveland, OH",USA,North America,NA,NA,NA
+1029,665,Moungi,Bawendi,male,Paris,France,Europe,NA,NA,NA
+1034,666,Claudia,Goldin,female,"New York, NY",USA,North America,NA,NA,NA
+1032,667,Jon,Fosse,male,Haugesund,Norway,Europe,NA,NA,NA
+1033,668,Narges,Mohammadi,female,Zanjan,Iran,Asia,NA,NA,NA
+1028,669,Anne,L’Huillier,female,Paris,France,Europe,NA,NA,NA
+1027,669,Ferenc,Krausz,male,Mór,Hungary,Europe,NA,NA,NA
+1026,669,Pierre,Agostini,male,Tunis,French protectorate of Tunisia,Africa,NA,NA,NA
+1025,670,Drew,Weissman,male,"Lexington, MA",USA,North America,NA,NA,NA
+1024,670,Katalin,Karikó,female,Szolnok,Hungary,Europe,NA,NA,NA
+1039,671,David,Baker,male,"Seattle, WA",USA,North America,NA,NA,NA
+1040,671,Demis,Hassabis,male,London,United Kingdom,Europe,NA,NA,NA
+1041,671,John,Jumper,male,"Little Rock, AR",USA,North America,NA,NA,NA
+1044,672,Daron,Acemoglu,male,Istanbul,Turkey,Asia,NA,NA,NA
+1046,672,James,Robinson,male,NA,NA,NA,NA,NA,NA
+1045,672,Simon,Johnson,male,Sheffield,United Kingdom,Europe,NA,NA,NA
+1042,673,Kang,Han,female,Gwangju,South Korea,Asia,NA,NA,NA
+1038,675,Geoffrey,Hinton,male,London,United Kingdom,Europe,NA,NA,NA
+1037,675,John,Hopfield,male,"Chicago, IL",USA,North America,NA,NA,NA
+1036,676,Gary,Ruvkun,male,"Berkeley, CA",USA,North America,NA,NA,NA
+1035,676,Victor,Ambros,male,"Hanover, NH",USA,North America,NA,NA,NA
